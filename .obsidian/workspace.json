@@ -11,10 +11,14 @@
             "id": "37581bf86e19d13d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -202,13 +206,10 @@
       "i18n:common.i18n": false,
       "obsidian-git:打开Git源代码管理": true,
       "yolo:打开聊天": true,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-textgenerator-plugin:生成文本！": false,
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3752e2b19dacda1b",
+  "active": "37581bf86e19d13d",
   "lastOpenFiles": [
     "Markdown学习/未命名",
     "YOLO",
