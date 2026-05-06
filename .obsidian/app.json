@@ -10,5 +10,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
   "rightToLeft": false,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "propertiesInDocument": "visible"
 }

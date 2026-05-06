@@ -5,7 +5,8 @@
     "tags": "tags",
     "infoValue": "number",
     "infoDensity": "number",
-    "dateCreat": "text",
-    "dateUpdate": "text"
+    "dateCreat": "datetime",
+    "dateUpdate": "datetime",
+    "status": "multitext"
   }
 }
