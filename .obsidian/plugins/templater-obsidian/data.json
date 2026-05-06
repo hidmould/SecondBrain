@@ -1,13 +1,13 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "Templater",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -31,9 +31,7 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [
-    ""
-  ],
+  "startup_templates": [],
   "intellisense_render": 1,
   "ignore_folders_on_creation": [
     {
