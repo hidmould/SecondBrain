@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "YOLO/.yolo_json_db/chats/chat_index.json",
+                "bFile": "YOLO/.yolo_json_db/chats/chat_index.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: chat_index.json  (Working Tree)"
             }
           }
         ]
@@ -209,7 +209,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "37581bf86e19d13d",
+  "active": "3752e2b19dacda1b",
   "lastOpenFiles": [
     "Markdown学习/未命名",
     "YOLO",
