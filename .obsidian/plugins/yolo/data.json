@@ -1,7 +1,38 @@
 {
   "version": 50,
-  "providers": [],
-  "chatModels": [],
+  "providers": [
+    {
+      "id": "kimi-moonshot",
+      "presetType": "openai-compatible",
+      "apiType": "openai-compatible",
+      "baseUrl": "https://api.moonshot.cn/v1",
+      "apiKey": "sk-xKfR8CJiCRO9049eKZRdvKox69pJCql2e6ygKFtF0ergzdsa",
+      "additionalSettings": {
+        "noStainless": false,
+        "requestTransportMode": "node"
+      }
+    }
+  ],
+  "chatModels": [
+    {
+      "providerId": "kimi-moonshot",
+      "id": "kimi-moonshot/moonshot-v1-8k",
+      "model": "moonshot-v1-8k",
+      "name": "moonshot-v1-8k",
+      "maxContextTokens": 262144,
+      "modalities": [
+        "text"
+      ],
+      "toolType": "none",
+      "gptTools": {
+        "webSearch": {
+          "enabled": false
+        }
+      },
+      "reasoningType": "none",
+      "enable": true
+    }
+  ],
   "embeddingModels": [],
   "chatModelId": "",
   "chatTitleModelId": "",
@@ -169,7 +200,7 @@
   ],
   "currentAssistantId": "__default_agent__",
   "__meta": {
-    "updatedAt": 1778052694737,
+    "updatedAt": 1778053883383,
     "deviceId": "7ba6424c-abc0-4626-9a54-f5b758f244ef"
   }
 }

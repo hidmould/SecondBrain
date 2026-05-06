@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "99ab3a4637c64279",
+        "id": "76cf03b075978033",
         "type": "tabs",
         "children": [
           {
-            "id": "9e3abadfb6564aa9",
+            "id": "37581bf86e19d13d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "f4711783ad2c3117",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-manager-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "i18n 管理中心"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 259.5
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -179,13 +168,24 @@
               "icon": "git-pull-request",
               "title": "源代码管理"
             }
+          },
+          {
+            "id": "63d20645d0a53aa3",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "新对话"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 450.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,14 +202,15 @@
       "obsidian42-brat:BRAT": false,
       "i18n:common.i18n": false,
       "obsidian-git:打开Git源代码管理": true,
-      "yolo:打开聊天": false,
+      "yolo:打开聊天": true,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-textgenerator-plugin:生成文本！": false
     }
   },
-  "active": "a6d4525492cc20e7",
+  "active": "37581bf86e19d13d",
   "lastOpenFiles": [
+    "Markdown学习/未命名",
     "YOLO",
     "IT/Java/Redis.md",
     "Markdown学习/标题语法.md",
