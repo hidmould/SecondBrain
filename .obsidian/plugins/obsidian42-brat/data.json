@@ -1,0 +1,39 @@
+{
+  "pluginList": [
+    "wambo121/Floating-Settings-for-Obsidian",
+    "wish5115/obsidian-floating-settings",
+    "Obsidian-Forge/obsidian-i18n",
+    "eondrcode/obsidian-i18n"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "wambo121/Floating-Settings-for-Obsidian",
+      "version": ""
+    },
+    {
+      "repo": "wish5115/obsidian-floating-settings",
+      "version": "latest"
+    },
+    {
+      "repo": "Obsidian-Forge/obsidian-i18n",
+      "version": "latest"
+    },
+    {
+      "repo": "eondrcode/obsidian-i18n",
+      "version": "2.0.9"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "obisidian",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": true
+}

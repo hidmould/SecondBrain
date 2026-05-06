@@ -1,0 +1,19 @@
+/* 让设置面板变成可拖动的悬浮窗口 */
+.modal-container:has(.mod-settings) {
+    pointer-events: none;
+}
+.modal-container:has(.mod-settings) .modal-bg {
+    display: none;
+}
+.modal-container:has(.mod-settings) .modal.mod-settings {
+    pointer-events: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    resize: both;
+    overflow: auto;
+    z-index: 9999;
+    min-width: 600px;
+    min-height: 400px;
+}

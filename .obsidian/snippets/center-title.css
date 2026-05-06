@@ -1,0 +1,6 @@
+.inline-title {
+  text-align: center;
+}
+
+/* i18n 只显示中文，隐藏英文原文 */
+.i18n-original { display: none !important; }

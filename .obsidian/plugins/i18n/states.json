@@ -1,0 +1,66 @@
+{
+    "plugins": {
+        "templater-obsidian": {
+            "id": "templater-obsidian",
+            "isApplied": true,
+            "pluginVersion": "2.20.0",
+            "translationVersion": "2.0.0"
+        },
+        "obsidian-git": {
+            "id": "obsidian-git",
+            "isApplied": true,
+            "pluginVersion": "2.38.2",
+            "translationVersion": "1.0.0"
+        },
+        "obsidian42-brat": {
+            "id": "obsidian42-brat",
+            "isApplied": true,
+            "pluginVersion": "2.0.4",
+            "translationVersion": "1.0.0"
+        },
+        "better-export-pdf": {
+            "id": "better-export-pdf",
+            "isApplied": true,
+            "pluginVersion": "1.11.0",
+            "translationVersion": "1.0.0"
+        },
+        "obsidian-hover-editor": {
+            "id": "obsidian-hover-editor",
+            "isApplied": true,
+            "pluginVersion": "0.11.29",
+            "translationVersion": "1.0.0"
+        },
+        "obsidian-style-settings": {
+            "id": "obsidian-style-settings",
+            "isApplied": true,
+            "pluginVersion": "1.0.9",
+            "translationVersion": "2.0.0"
+        },
+        "opener": {
+            "id": "opener",
+            "isApplied": true,
+            "pluginVersion": "2.2.9",
+            "translationVersion": "1.0.0"
+        }
+    },
+    "themes": {
+        "Minimal": {
+            "id": "Minimal",
+            "isApplied": true,
+            "pluginVersion": "8.1.7",
+            "translationVersion": "1.0.0"
+        },
+        "AnuPpuccin": {
+            "id": "AnuPpuccin",
+            "isApplied": true,
+            "pluginVersion": "1.5.0",
+            "translationVersion": "1.0.0"
+        },
+        "Border": {
+            "id": "Border",
+            "isApplied": true,
+            "pluginVersion": "1.13.6",
+            "translationVersion": "1.0.0"
+        }
+    }
+}

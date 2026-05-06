@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 2,
+  "sources": {
+    "qWabWK_k5y0iHkPj9fHhZdi-Fz-PnFMn": {
+      "id": "qWabWK_k5y0iHkPj9fHhZdi-Fz-PnFMn",
+      "plugin": "ai-templater",
+      "title": "AI for Templater",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "a111828ec12bb8db86e3985db1f9ca3bca713544b0f235ca70d065ebf96fc5be",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "37e4e8a137e4e8a137e4e8a137e4e8a1"
+      },
+      "updatedAt": 1777989794124,
+      "createdAt": 1777989794124
+    },
+    "gdxAy3LLbiMUIkeayw09C9ZeWkzsR2KE": {
+      "id": "gdxAy3LLbiMUIkeayw09C9ZeWkzsR2KE",
+      "plugin": "templater-obsidian",
+      "title": "Templater",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "78b9d9a25643626010aa8af09e2e317423617ab922d9027aad641c438f9018ae",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "6c71392e6c71392e6c71392e6c71392e"
+      },
+      "updatedAt": 1777989861060,
+      "createdAt": 1777989861060
+    },
+    "ghxPaGm3CTMcqnwhJsOGLGbgeo_yl-cR": {
+      "id": "ghxPaGm3CTMcqnwhJsOGLGbgeo_yl-cR",
+      "plugin": "obsidian-git",
+      "title": "Git",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "ce3d6dfa5ace1e683f01f72efdbda6a62a72351934ab43cd01d4c311911cff40",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "68eff53068eff53068eff53068eff530"
+      },
+      "updatedAt": 1777989976202,
+      "createdAt": 1777989976202
+    },
+    "8-02LUjUc2APh5zqrYW_1yIjENGhpL2B": {
+      "id": "8-02LUjUc2APh5zqrYW_1yIjENGhpL2B",
+      "plugin": "obsidian42-brat",
+      "title": "BRAT",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "d639b8ff38d77fe20939a8a5ff5a3bfc5d0367b61336e73e6cedff6eda994423",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "040bf0a2040bf0a2040bf0a2040bf0a2"
+      },
+      "updatedAt": 1777990087430,
+      "createdAt": 1777990087430
+    },
+    "D6mQWxqhKwiy3uuojC-M9B6JRTxflI0W": {
+      "id": "D6mQWxqhKwiy3uuojC-M9B6JRTxflI0W",
+      "plugin": "better-export-pdf",
+      "title": "Better Export PDF",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "dfaafa0a25ef0a954dd10bbd317a46288e9831c1001937d80251b15560d19b4a",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "0c8c52410c8c52410c8c52410c8c5241"
+      },
+      "updatedAt": 1777990313437,
+      "createdAt": 1777990313437
+    },
+    "52jLowm8bDeXnxFszlUmcwzg6zcl4gk_": {
+      "id": "52jLowm8bDeXnxFszlUmcwzg6zcl4gk_",
+      "plugin": "obsidian-hover-editor",
+      "title": "Hover Editor",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "79b0fcd4ad2066ad7be0c6bb7f97ceb84a1064413aad3239401705932562a51d",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "3141f7003141f7003141f7003141f700"
+      },
+      "updatedAt": 1777990714938,
+      "createdAt": 1777990714938
+    },
+    "gt5bbAQTn-fj4XLIf4RA9HwfYpac1-o1": {
+      "id": "gt5bbAQTn-fj4XLIf4RA9HwfYpac1-o1",
+      "plugin": "obsidian-style-settings",
+      "title": "Style Settings",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "144faebc81b10dd32086dbef0e10aa69ba35a2f5281e4ee672079550a7e7c0d9",
+      "cloud": {
+        "owner": "yubolun",
+        "repo": "obsidian-i18n-resources",
+        "hash": "0dbd31070dbd31070dbd31070dbd3107"
+      },
+      "updatedAt": 1777990966240,
+      "createdAt": 1777990966240
+    },
+    "NPXLQhrzM6xUPqvUJqMa3bPNzwC2xVSQ": {
+      "id": "NPXLQhrzM6xUPqvUJqMa3bPNzwC2xVSQ",
+      "plugin": "opener",
+      "title": "Opener: New Tab by Default",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "80898fa494c17156ac0c02edb14678ed0097ef99c0b437c165d2e468a51b28bc",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "72487559724875597248755972487559"
+      },
+      "updatedAt": 1778026766811,
+      "createdAt": 1778026766811
+    },
+    "zbF9TMhEdixUs69g21fMshfEMcXUVrOz": {
+      "id": "zbF9TMhEdixUs69g21fMshfEMcXUVrOz",
+      "plugin": "Minimal",
+      "title": "Minimal",
+      "type": "theme",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "a26dc944d0a77c9de1d53f0e6919a516764eabc1e450b3497ec8e145d3b1bdc7",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "63821ea063821ea063821ea063821ea0"
+      },
+      "updatedAt": 1778026923083,
+      "createdAt": 1778026923083
+    },
+    "51UEgp2s7EunJ5opZiIzNh23m-oc8kXR": {
+      "id": "51UEgp2s7EunJ5opZiIzNh23m-oc8kXR",
+      "plugin": "AnuPpuccin",
+      "title": "AnuPpuccin",
+      "type": "theme",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "39d7e74a2225718d6d074e504c936d6d3dfb762a78fb40e0a685b4ff4be03aa4",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "055d9368055d9368055d9368055d9368"
+      },
+      "updatedAt": 1778026941199,
+      "createdAt": 1778026941199
+    },
+    "Crmbg72U_eHjOjL-AgmTj98RxnFi8vXJ": {
+      "id": "Crmbg72U_eHjOjL-AgmTj98RxnFi8vXJ",
+      "plugin": "Border",
+      "title": "Border",
+      "type": "theme",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "9905797780ddb1fc83c77639f3e308676b6f2ded4566796e108cf548041baabd",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "6645a9ab6645a9ab6645a9ab6645a9ab"
+      },
+      "updatedAt": 1778026952820,
+      "createdAt": 1778026952820
+    },
+    "w2XvTE_V6PmJVSLCWPqR1NvbXTC7qW4x": {
+      "id": "w2XvTE_V6PmJVSLCWPqR1NvbXTC7qW4x",
+      "plugin": "juggl",
+      "title": "Juggl",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "57e2edcd14db2df88477ae3c7f7a8d48a163a83843283209c8a84b47d21252c5",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "0b11abb40b11abb40b11abb40b11abb4"
+      },
+      "updatedAt": 1778037917045,
+      "createdAt": 1778037917045
+    }
+  }
+}

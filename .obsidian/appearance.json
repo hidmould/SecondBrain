@@ -1,0 +1,16 @@
+{
+  "showRibbon": true,
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "center-title",
+    "hide-original-translation",
+    "modal-containen",
+    "float-setting",
+    "modal-container"
+  ],
+  "theme": "obsidian",
+  "accentColor": "",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
+}
