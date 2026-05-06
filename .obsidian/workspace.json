@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +224,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4d1b6a7538cee1c9",
+  "active": "a6d4525492cc20e7",
   "lastOpenFiles": [
     "Markdown学习/使用Markdown语法进行创作.md",
     "Templater/灵感创意/灵感创意模板.md",
