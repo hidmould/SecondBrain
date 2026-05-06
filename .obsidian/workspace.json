@@ -11,13 +11,24 @@
             "id": "9e3abadfb6564aa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "f4711783ad2c3117",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-manager-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203.5
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -174,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +201,16 @@
       "workspaces:管理工作区布局": false,
       "obsidian42-brat:BRAT": false,
       "i18n:common.i18n": false,
-      "obsidian-git:打开Git源代码管理": true
+      "obsidian-git:打开Git源代码管理": true,
+      "yolo:打开聊天": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-textgenerator-plugin:生成文本！": false
     }
   },
-  "active": "3752e2b19dacda1b",
+  "active": "a6d4525492cc20e7",
   "lastOpenFiles": [
+    "YOLO",
     "IT/Java/Redis.md",
     "Markdown学习/标题语法.md",
     "Markdown学习/非标题语法.md",

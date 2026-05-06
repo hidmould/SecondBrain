@@ -41,6 +41,12 @@
             "isApplied": true,
             "pluginVersion": "2.2.9",
             "translationVersion": "1.0.0"
+        },
+        "obsidian-textgenerator-plugin": {
+            "id": "obsidian-textgenerator-plugin",
+            "isApplied": true,
+            "pluginVersion": "0.8.1",
+            "translationVersion": "1.0.0"
         }
     },
     "themes": {

@@ -86,15 +86,10 @@
       "plugin": "obsidian-hover-editor",
       "title": "Hover Editor",
       "type": "plugin",
-      "origin": "cloud",
+      "origin": "local",
       "isActive": false,
       "checksum": "79b0fcd4ad2066ad7be0c6bb7f97ceb84a1064413aad3239401705932562a51d",
-      "cloud": {
-        "owner": "yunrr",
-        "repo": "obsidian-i18n-resources",
-        "hash": "3141f7003141f7003141f7003141f700"
-      },
-      "updatedAt": 1777990714938,
+      "updatedAt": 1778052709881,
       "createdAt": 1777990714938
     },
     "gt5bbAQTn-fj4XLIf4RA9HwfYpac1-o1": {
@@ -192,6 +187,22 @@
       },
       "updatedAt": 1778037917045,
       "createdAt": 1778037917045
+    },
+    "zD5vJE8FyL0L2qt8g5XKAyHnIm2EhSqW": {
+      "id": "zD5vJE8FyL0L2qt8g5XKAyHnIm2EhSqW",
+      "plugin": "obsidian-textgenerator-plugin",
+      "title": "Text Generator",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "10ba72f4a42f7c5822ec3d76b8fad947b737f6a91281fbf0b038d91ceb534b5c",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "3b8b4c853b8b4c853b8b4c853b8b4c85"
+      },
+      "updatedAt": 1778052153767,
+      "createdAt": 1778052153767
     }
   }
 }

@@ -1,11 +1,16 @@
 {
   "pluginList": [
+    "nhaouari/obsidian-textgenerator-plugin",
     "wambo121/Floating-Settings-for-Obsidian",
     "wish5115/obsidian-floating-settings",
     "Obsidian-Forge/obsidian-i18n",
     "eondrcode/obsidian-i18n"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "nhaouari/obsidian-textgenerator-plugin",
+      "version": "0.8.1"
+    },
     {
       "repo": "wambo121/Floating-Settings-for-Obsidian",
       "version": ""
@@ -24,7 +29,7 @@
     }
   ],
   "themesList": [],
-  "updateAtStartup": true,
+  "updateAtStartup": false,
   "updateThemesAtStartup": true,
   "enableAfterInstall": true,
   "loggingEnabled": false,
