@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "76cf03b075978033",
+        "id": "6c573a7013de1341",
         "type": "tabs",
         "children": [
           {
-            "id": "37581bf86e19d13d",
+            "id": "f830cd06148d392a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "YOLO/.yolo_json_db/chats/chat_index.json",
-                "bFile": "YOLO/.yolo_json_db/chats/chat_index.json",
-                "aRef": ""
+                "file": "Markdown学习/使用Markdown语法进行创作.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: chat_index.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "使用Markdown语法进行创作"
+            }
+          },
+          {
+            "id": "29df93c8cd1a6836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Java/Redis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,14 +224,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3752e2b19dacda1b",
+  "active": "a6d4525492cc20e7",
   "lastOpenFiles": [
+    "Markdown学习/使用Markdown语法进行创作.md",
+    "Markdown学习/标题语法.md",
     "Markdown学习/未命名",
     "YOLO",
     "IT/Java/Redis.md",
-    "Markdown学习/标题语法.md",
     "Markdown学习/非标题语法.md",
-    "Markdown学习/使用Markdown语法进行创作.md",
     "未命名.canvas",
     "2026-05-06.md",
     "未命名.base",
@@ -238,7 +253,6 @@
     "创建链接.md",
     "未命名 1.md",
     "高洪波.md",
-    "牛逼.md",
-    "数据库"
+    "牛逼.md"
   ]
 }
