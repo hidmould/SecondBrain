@@ -122,6 +122,21 @@
             }
           },
           {
+            "id": "b8d0d72dc48e4d0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
             "id": "6d3c5803621fbda9",
             "type": "leaf",
             "state": {
@@ -170,12 +185,12 @@
               "title": "新对话"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +211,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6d3c5803621fbda9",
+  "active": "0ebc843f9ee97e5d",
   "lastOpenFiles": [
     "YOLO",
     "Templater/机械工程/机械工程模板.md",

@@ -7,10 +7,12 @@
     "hide-original-translation",
     "modal-containen",
     "float-setting",
-    "modal-container"
+    "modal-container",
+    "vertical-right-tabs"
   ],
   "theme": "obsidian",
   "accentColor": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "showViewHeader": true
 }

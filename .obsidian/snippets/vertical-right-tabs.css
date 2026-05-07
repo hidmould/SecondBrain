@@ -1,0 +1,64 @@
+/* @settings
+name: Moy 垂直标签页（右侧）
+id: moy-vertical-tabs-right
+settings:
+  -
+    id: align-to-right
+    title: 靠右垂直标签页
+    type: class-toggle
+    default: true
+  -
+    id: auto-collapse
+    title: 自动收缩侧边栏
+    type: class-toggle
+    default: true
+  -
+    id: collapsed-width
+    title: 收缩宽度（px）
+    type: variable-number
+    default: 40
+  -
+    id: expanded-width
+    title: 展开宽度（px）
+    type: variable-number
+    default: 300
+*/
+
+/* 基础重置 */
+.workspace.is-right-sidedock-open .mod-root .workspace-tabs.mod-top-right-space {
+  height: 100% !important;
+  width: var(--expanded-width) !important;
+}
+
+/* 右侧标签栏竖直排列 */
+.mod-right-split .workspace-tab-header-tab-list {
+  display: block !important;
+  position: absolute !important;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: var(--collapsed-width) !important;
+  padding: 4px 0;
+  background: var(--background-primary);
+  border-left: 1px solid var(--background-modifier-border);
+}
+
+/* 单个标签图标竖直排列 */
+.mod-right-split .workspace-tab-header {
+  display: block !important;
+  width: 100% !important;
+  height: 40px !important;
+  padding: 8px 0;
+  text-align: center;
+}
+
+/* 收缩状态：仅显示图标 */
+body.auto-collapse .mod-right-split .workspace-leaf-content {
+  width: 0 !important;
+  overflow: hidden !important;
+}
+
+/* 展开状态：显示面板内容 */
+body.auto-collapse .workspace-tab-header.is-active ~ .workspace-leaf-content {
+  width: var(--expanded-width) !important;
+}
