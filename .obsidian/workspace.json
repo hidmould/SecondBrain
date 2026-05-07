@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80406d523e0d363a",
+        "id": "00670d49d62141ef",
         "type": "tabs",
         "children": [
           {
-            "id": "f93c4d3a530e8377",
+            "id": "d191e44c78e13544",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机械工程/面试/面试初学.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "面试初学"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机械工程/面试/面试初学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "面试初学 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -166,16 +161,6 @@
             }
           },
           {
-            "id": "3752e2b19dacda1b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "源代码管理"
-            }
-          },
-          {
             "id": "17290719ace2dfcd",
             "type": "leaf",
             "state": {
@@ -200,15 +185,23 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "机械工程/面试/面试初学.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "面试初学的笔记属性"
+              "title": "笔记属性"
+            }
+          },
+          {
+            "id": "28feaf40371e7e9d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -233,10 +226,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3752e2b19dacda1b",
+  "active": "d191e44c78e13544",
   "lastOpenFiles": [
-    "IT/Java/Redis.md",
     "机械工程/面试/面试初学.md",
+    "IT/Java/Redis.md",
     "YOLO",
     "Templater/机械工程/机械工程模板.md",
     "机械工程/面试/未命名.md",
