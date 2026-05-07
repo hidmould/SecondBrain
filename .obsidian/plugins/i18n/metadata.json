@@ -203,6 +203,22 @@
       },
       "updatedAt": 1778052153767,
       "createdAt": 1778052153767
+    },
+    "cln6VbaTOq3uHQvQXQHM6KLnfiS-l2Bp": {
+      "id": "cln6VbaTOq3uHQvQXQHM6KLnfiS-l2Bp",
+      "plugin": "cmdr",
+      "title": "Commander",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "e0e57ce46bf1f117cae29f1033da2952d2273ff1b49e23801bba78483830fecf",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "6e3ad4906e3ad4906e3ad4906e3ad490"
+      },
+      "updatedAt": 1778136329358,
+      "createdAt": 1778136329358
     }
   }
 }
