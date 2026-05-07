@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +221,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ef12d60cd4631c52",
+  "active": "3752e2b19dacda1b",
   "lastOpenFiles": [
     "机械工程/面试/面试初学.md",
     "Templater/机械工程/机械工程模板.md",
