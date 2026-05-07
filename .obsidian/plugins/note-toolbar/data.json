@@ -1,0 +1,82 @@
+{
+  "debugEnabled": false,
+  "defaultToolbar": null,
+  "editorMenuAsToolbar": false,
+  "editorMenuToolbar": null,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "obsidianUiVisibility": {},
+  "onboarding": {
+    "startup-help-view": true,
+    "startup-help-welcome": true,
+    "default-f04637be-46b8-4ec5-a1d8-030dd06468bd": true
+  },
+  "ribbonAction": "toolbar",
+  "ribbonToolbar": null,
+  "rules": [],
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "showWhatsNew": true,
+  "textToolbar": null,
+  "textToolbarOnKeyboard": true,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "ccab4702-01d0-4bc8-9a22-d26b72dd24c9",
+      "commandPosition": "float",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "hasCommand": false,
+      "items": [],
+      "mobileStyles": [],
+      "name": "右侧边栏",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "fabr"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "fabr"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "fabr"
+          }
+        }
+      },
+      "updated": "2026-05-07T04:03:39.996Z"
+    }
+  ],
+  "version": 20260122.1,
+  "webviewerToolbar": null,
+  "whatsnew_version": "1.30"
+}
