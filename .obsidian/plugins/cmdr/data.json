@@ -14,6 +14,12 @@
       "icon": "lucide-git-commit",
       "name": "Git: 提交并同步",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "icon": "lucide-git-pull-request-arrow",
+      "name": "Git: 拉取",
+      "mode": "any"
     }
   ],
   "macros": [],
