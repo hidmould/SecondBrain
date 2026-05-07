@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -225,8 +226,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a6d4525492cc20e7",
+  "active": "0ebc843f9ee97e5d",
   "lastOpenFiles": [
+    "YOLO",
     "Templater/机械工程/机械工程模板.md",
     "机械工程/面试/面试初学.md",
     "机械工程/面试/未命名.md",
@@ -244,7 +246,6 @@
     "Templater",
     "Markdown学习/标题语法.md",
     "Markdown学习/未命名",
-    "YOLO",
     "Markdown学习/非标题语法.md",
     "未命名.canvas",
     "2026-05-06.md",
