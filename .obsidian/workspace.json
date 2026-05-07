@@ -11,10 +11,14 @@
             "id": "d191e44c78e13544",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/cmdr/data.json",
+                "bFile": ".obsidian/plugins/cmdr/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -146,6 +150,16 @@
             }
           },
           {
+            "id": "28feaf40371e7e9d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
+            }
+          },
+          {
             "id": "f912d88549cf9153",
             "type": "leaf",
             "state": {
@@ -189,19 +203,9 @@
               "icon": "lucide-info",
               "title": "笔记属性"
             }
-          },
-          {
-            "id": "28feaf40371e7e9d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "源代码管理"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -226,7 +230,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d191e44c78e13544",
+  "active": "28feaf40371e7e9d",
   "lastOpenFiles": [
     "机械工程/面试/面试初学.md",
     "IT/Java/Redis.md",
