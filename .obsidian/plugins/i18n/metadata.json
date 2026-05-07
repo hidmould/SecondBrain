@@ -219,6 +219,22 @@
       },
       "updatedAt": 1778136329358,
       "createdAt": 1778136329358
+    },
+    "8b5LxJoWxzgga5w0qN7b5Oap5m7NUvnM": {
+      "id": "8b5LxJoWxzgga5w0qN7b5Oap5m7NUvnM",
+      "plugin": "obsidian-sidebar-expand-on-hover",
+      "title": "Sidebar Expand on Hover",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "510e774beed04022e9c4d236dcbcfdee8025b3956b1a23d6809871c5d8bdccb7",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "18a8713418a8713418a8713418a87134"
+      },
+      "updatedAt": 1778166711839,
+      "createdAt": 1778166711839
     }
   }
 }

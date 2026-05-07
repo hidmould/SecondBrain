@@ -1,66 +1,76 @@
 {
   "main": {
-    "id": "3b11849cae083fca",
+    "id": "dca1c12bf870ec61",
     "type": "split",
     "children": [
       {
-        "id": "c4b4a1ab88fdd7ff",
+        "id": "c421d4b7d9531145",
         "type": "tabs",
         "children": [
           {
-            "id": "e273d071f186f01a",
+            "id": "99aae766357626ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown学习/使用Markdown语法进行创作.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "使用Markdown语法进行创作"
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "新对话"
             }
           },
           {
-            "id": "2d55515253c86aed",
+            "id": "7ec9f92d6b19c59c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown学习/标题语法.md",
+                "file": "Templater/灵感创意/灵感创意模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "标题语法"
+              "title": "灵感创意模板"
             }
           },
           {
-            "id": "cde94af418498dc2",
+            "id": "46985ece4bb06077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown学习/非标题语法.md",
+                "file": "机械工程/面试/面试初学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "非标题语法"
+              "title": "面试初学"
+            }
+          },
+          {
+            "id": "c13aead4b3bd9a1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templater/机械工程/机械工程模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "机械工程模板"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dedd08db6168908b",
+    "id": "1713f679d35910c3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "564101a395c00538",
+        "id": "5e88e6cf5710011e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -73,7 +83,7 @@
         }
       },
       {
-        "id": "1a85933c6a50154a",
+        "id": "9f46b88c7eeb396c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -90,7 +100,7 @@
         }
       },
       {
-        "id": "a1d2bc67836dbefa",
+        "id": "d18757e547a68ca8",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -105,7 +115,7 @@
         }
       },
       {
-        "id": "354d2de407302337",
+        "id": "a0688b4c801ce147",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -119,7 +129,7 @@
         }
       },
       {
-        "id": "54e2d257422362cb",
+        "id": "80385777764dd151",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -129,20 +139,19 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
-    "id": "89f1d95de9a74b52",
+    "id": "4a841d5e923137e3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "93039eac0b4165cf",
+        "id": "6bd50325fd780448",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Markdown学习/非标题语法.md",
+            "file": "Templater/灵感创意/灵感创意模板.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,7 +165,7 @@
         }
       },
       {
-        "id": "42a720f48bb95831",
+        "id": "395cf1beaabfec1c",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -169,7 +178,7 @@
         }
       },
       {
-        "id": "ad6185ee0b960734",
+        "id": "64b494f7e2d78fcd",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -203,15 +212,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "cde94af418498dc2",
+  "active": "c13aead4b3bd9a1d",
   "lastOpenFiles": [
-    "Markdown学习/使用Markdown语法进行创作.md",
+    "机械工程/面试/面试初学.md",
+    "Templater/灵感创意/灵感创意模板.md",
+    "Templater/机械工程/机械工程模板.md",
     "机械工程/面试",
     "Templater/机械工程",
     "机械工程",
-    "Markdown学习/非标题语法.md",
     "Markdown学习/标题语法.md",
+    "Markdown学习/使用Markdown语法进行创作.md",
+    "Templater/灵感创意/未命名",
     "Templater/灵感创意",
-    "Templater"
+    "Templater",
+    "YOLO"
   ]
 }

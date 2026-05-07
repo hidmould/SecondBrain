@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "00670d49d62141ef",
+        "id": "f85d603f8f462739",
         "type": "tabs",
         "children": [
           {
-            "id": "d191e44c78e13544",
+            "id": "a42caa3c237131a0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/cmdr/data.json",
-                "bFile": ".obsidian/plugins/cmdr/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -209,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 252,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,7 +228,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "28feaf40371e7e9d",
+  "active": "a42caa3c237131a0",
   "lastOpenFiles": [
     "机械工程/面试/面试初学.md",
     "IT/Java/Redis.md",

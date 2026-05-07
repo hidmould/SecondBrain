@@ -53,6 +53,12 @@
             "isApplied": true,
             "pluginVersion": "0.5.5",
             "translationVersion": "2.0.0"
+        },
+        "obsidian-sidebar-expand-on-hover": {
+            "id": "obsidian-sidebar-expand-on-hover",
+            "isApplied": true,
+            "pluginVersion": "1.0.1",
+            "translationVersion": "2.0.0"
         }
     },
     "themes": {
