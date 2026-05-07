@@ -3,7 +3,7 @@
         "templater-obsidian": {
             "id": "templater-obsidian",
             "isApplied": true,
-            "pluginVersion": "2.20.0",
+            "pluginVersion": "2.20.3",
             "translationVersion": "2.0.0"
         },
         "obsidian-git": {
@@ -45,7 +45,7 @@
         "obsidian-textgenerator-plugin": {
             "id": "obsidian-textgenerator-plugin",
             "isApplied": true,
-            "pluginVersion": "0.8.1",
+            "pluginVersion": "0.8.7",
             "translationVersion": "1.0.0"
         },
         "cmdr": {

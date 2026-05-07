@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b9cbcdb47874c3",
+        "id": "80406d523e0d363a",
         "type": "tabs",
         "children": [
           {
-            "id": "ef12d60cd4631c52",
+            "id": "f93c4d3a530e8377",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/cmdr/data.json",
-                "bFile": ".obsidian/plugins/cmdr/data.json",
-                "aRef": ""
+                "file": "机械工程/面试/面试初学.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "面试初学"
             }
           }
         ]
@@ -194,6 +194,18 @@
               "icon": "wand-sparkles",
               "title": "新对话"
             }
+          },
+          {
+            "id": "eb74f154343d89ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "机械工程/面试/面试初学.md"
+              },
+              "icon": "lucide-info",
+              "title": "面试初学的笔记属性"
+            }
           }
         ],
         "currentTab": 5
@@ -221,8 +233,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ef12d60cd4631c52",
+  "active": "3752e2b19dacda1b",
   "lastOpenFiles": [
+    "IT/Java/Redis.md",
     "机械工程/面试/面试初学.md",
     "YOLO",
     "Templater/机械工程/机械工程模板.md",
@@ -236,7 +249,6 @@
     "Markdown学习/使用Markdown语法进行创作.md",
     "Templater/机械工程",
     "Markdown学习/未命名.md",
-    "IT/Java/Redis.md",
     "Templater/灵感创意",
     "Templater",
     "Markdown学习/标题语法.md",
