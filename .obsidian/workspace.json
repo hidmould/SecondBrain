@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b476a3c157a02d66",
+        "id": "e445fc3c5f279267",
         "type": "tabs",
         "children": [
           {
-            "id": "745ef1699551034c",
+            "id": "3186ed1761f8eb66",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "5afc515767dabf41",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-manager-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "i18n 管理中心"
-            }
-          },
-          {
-            "id": "ef526d8467b7e6ee",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-cloud-view",
-              "state": {},
-              "icon": "cloud",
-              "title": "云端翻译中心"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,16 +226,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5afc515767dabf41",
+  "active": "3186ed1761f8eb66",
   "lastOpenFiles": [
+    "Markdown学习/使用Markdown语法进行创作.md",
+    "Markdown学习/标题语法.md",
+    "Markdown学习/非标题语法.md",
+    "Clippings/Bilibili/2026-05-08-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "Clippings/Bilibili",
+    "Clippings",
     "Templater/机械工程/机械工程模板.md",
     "2026-05-08.md",
-    "Markdown学习/非标题语法.md",
     "机械工程/面试/面试初学.md",
     "IT/Java/Redis.md",
-    "Markdown学习/标题语法.md",
     "Templater/灵感创意/灵感创意模板.md",
-    "Markdown学习/使用Markdown语法进行创作.md",
     "YOLO",
     "机械工程/面试/未命名.md",
     "机械工程/面试",
@@ -268,10 +250,8 @@
     "Markdown学习/未命名.md",
     "Templater/灵感创意",
     "Templater",
-    "Markdown学习/未命名",
     "未命名.canvas",
     "2026-05-06.md",
-    "未命名.base",
     "[AnuPpuccin/snippets/extended-colorschemes.css.md",
     "跳楼.md",
     "[哔哩哔哩.md",
