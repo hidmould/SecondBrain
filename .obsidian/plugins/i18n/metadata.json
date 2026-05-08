@@ -267,6 +267,22 @@
       },
       "updatedAt": 1778221090403,
       "createdAt": 1778221090403
+    },
+    "ibm8vbJe7Vf_fQncieIudvq0uFejAiYP": {
+      "id": "ibm8vbJe7Vf_fQncieIudvq0uFejAiYP",
+      "plugin": "obsidian-local-rest-api",
+      "title": "Local REST API",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "e3ea9825c8cc59e1e5bb5ebc2fb46d6daa6121b5b60256b6fa8d3f2ed733ca83",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "11cc4e7d11cc4e7d11cc4e7d11cc4e7d"
+      },
+      "updatedAt": 1778225700238,
+      "createdAt": 1778225700238
     }
   }
 }

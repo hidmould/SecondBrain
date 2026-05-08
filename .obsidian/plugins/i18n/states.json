@@ -59,6 +59,12 @@
             "isApplied": true,
             "pluginVersion": "1.28.2",
             "translationVersion": "1.0.0"
+        },
+        "obsidian-local-rest-api": {
+            "id": "obsidian-local-rest-api",
+            "isApplied": true,
+            "pluginVersion": "3.6.2",
+            "translationVersion": "1.0.0"
         }
     },
     "themes": {
