@@ -14,5 +14,6 @@
   "remotely-save",
   "calendar",
   "cmdr",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-excalidraw-plugin"
 ]

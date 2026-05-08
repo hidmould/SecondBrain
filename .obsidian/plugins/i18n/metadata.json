@@ -1,22 +1,6 @@
 {
   "schemaVersion": 2,
   "sources": {
-    "qWabWK_k5y0iHkPj9fHhZdi-Fz-PnFMn": {
-      "id": "qWabWK_k5y0iHkPj9fHhZdi-Fz-PnFMn",
-      "plugin": "ai-templater",
-      "title": "AI for Templater",
-      "type": "plugin",
-      "origin": "cloud",
-      "isActive": false,
-      "checksum": "a111828ec12bb8db86e3985db1f9ca3bca713544b0f235ca70d065ebf96fc5be",
-      "cloud": {
-        "owner": "yunrr",
-        "repo": "obsidian-i18n-resources",
-        "hash": "37e4e8a137e4e8a137e4e8a137e4e8a1"
-      },
-      "updatedAt": 1777989794124,
-      "createdAt": 1777989794124
-    },
     "gdxAy3LLbiMUIkeayw09C9ZeWkzsR2KE": {
       "id": "gdxAy3LLbiMUIkeayw09C9ZeWkzsR2KE",
       "plugin": "templater-obsidian",
@@ -172,22 +156,6 @@
       "updatedAt": 1778026952820,
       "createdAt": 1778026952820
     },
-    "w2XvTE_V6PmJVSLCWPqR1NvbXTC7qW4x": {
-      "id": "w2XvTE_V6PmJVSLCWPqR1NvbXTC7qW4x",
-      "plugin": "juggl",
-      "title": "Juggl",
-      "type": "plugin",
-      "origin": "cloud",
-      "isActive": false,
-      "checksum": "57e2edcd14db2df88477ae3c7f7a8d48a163a83843283209c8a84b47d21252c5",
-      "cloud": {
-        "owner": "yunrr",
-        "repo": "obsidian-i18n-resources",
-        "hash": "0b11abb40b11abb40b11abb40b11abb4"
-      },
-      "updatedAt": 1778037917045,
-      "createdAt": 1778037917045
-    },
     "zD5vJE8FyL0L2qt8g5XKAyHnIm2EhSqW": {
       "id": "zD5vJE8FyL0L2qt8g5XKAyHnIm2EhSqW",
       "plugin": "obsidian-textgenerator-plugin",
@@ -220,38 +188,6 @@
       "updatedAt": 1778136329358,
       "createdAt": 1778136329358
     },
-    "8b5LxJoWxzgga5w0qN7b5Oap5m7NUvnM": {
-      "id": "8b5LxJoWxzgga5w0qN7b5Oap5m7NUvnM",
-      "plugin": "obsidian-sidebar-expand-on-hover",
-      "title": "Sidebar Expand on Hover",
-      "type": "plugin",
-      "origin": "cloud",
-      "isActive": false,
-      "checksum": "510e774beed04022e9c4d236dcbcfdee8025b3956b1a23d6809871c5d8bdccb7",
-      "cloud": {
-        "owner": "yunrr",
-        "repo": "obsidian-i18n-resources",
-        "hash": "18a8713418a8713418a8713418a87134"
-      },
-      "updatedAt": 1778166711839,
-      "createdAt": 1778166711839
-    },
-    "-KFZwZPG07yya2_JhMibTs5jgiJ54PUE": {
-      "id": "-KFZwZPG07yya2_JhMibTs5jgiJ54PUE",
-      "plugin": "quick-peek-sidebar",
-      "title": "Quick Peek Sidebar",
-      "type": "plugin",
-      "origin": "cloud",
-      "isActive": false,
-      "checksum": "7346bb3601bb5af494c9a38e41b8f4a9ebcdab202f2f013befe0a8a0c29ae91f",
-      "cloud": {
-        "owner": "yunrr",
-        "repo": "obsidian-i18n-resources",
-        "hash": "6a36ec446a36ec446a36ec446a36ec44"
-      },
-      "updatedAt": 1778219353129,
-      "createdAt": 1778219353129
-    },
     "BhxZ0wK6isndVO22fxZvhI2ATdEoqr2G": {
       "id": "BhxZ0wK6isndVO22fxZvhI2ATdEoqr2G",
       "plugin": "omnisearch",
@@ -283,6 +219,22 @@
       },
       "updatedAt": 1778225700238,
       "createdAt": 1778225700238
+    },
+    "k2BGPYTVtZv5blhU8HtY04bGT6o3Uvlp": {
+      "id": "k2BGPYTVtZv5blhU8HtY04bGT6o3Uvlp",
+      "plugin": "obsidian-excalidraw-plugin",
+      "title": "Excalidraw",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "520016fb32f8f36b97c4f3bf99be225b90c59e281b69e55f695fc656aca097b7",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "676a1c8a676a1c8a676a1c8a676a1c8a"
+      },
+      "updatedAt": 1778249581241,
+      "createdAt": 1778249581241
     }
   }
 }

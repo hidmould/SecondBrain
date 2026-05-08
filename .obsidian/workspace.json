@@ -34,8 +34,33 @@
               "icon": "lucide-file",
               "title": "机械工程模板"
             }
+          },
+          {
+            "id": "70cb630286e37000",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 21.56.46.excalidraw"
+            }
+          },
+          {
+            "id": "2f8ec743b1a54bde",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 22.03.59.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,14 +267,17 @@
       "i18n:common.i18n": false,
       "obsidian-git:打开Git源代码管理": true,
       "yolo:打开聊天": true,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a6d4525492cc20e7",
+  "active": "2f8ec743b1a54bde",
   "lastOpenFiles": [
-    "Excalidraw",
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
     "Templater/机械工程/机械工程模板.md",
     "Templater/灵感创意/灵感创意模板.md",
+    "Excalidraw",
     "Clippings/去了一趟澳洲-昆士兰.md",
     "Untitled.md",
     "Clippings",
@@ -271,7 +299,6 @@
     "Templater/机械工程",
     "Markdown学习/未命名.md",
     "Templater/灵感创意",
-    "Templater",
     "未命名.canvas",
     "2026-05-06.md",
     "[AnuPpuccin/snippets/extended-colorschemes.css.md",
@@ -282,7 +309,6 @@
     "关系图.md",
     "创建链接.md",
     "未命名 1.md",
-    "高洪波.md",
-    "牛逼.md"
+    "高洪波.md"
   ]
 }

@@ -52,15 +52,27 @@
               "type": "markdown",
               "state": {
                 "file": "Templater/机械工程/机械工程模板.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "机械工程模板"
             }
+          },
+          {
+            "id": "088c328cd5fc7733",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 21.56.46.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templater/灵感创意/灵感创意模板.md",
+            "file": "Templater/机械工程/机械工程模板.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,9 +202,29 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "8ecac688d91d4c55",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "7f9616c68f39c4d3",
+        "type": "leaf",
+        "state": {
+          "type": "smtcmp-chat-view",
+          "state": {},
+          "icon": "wand-sparkles",
+          "title": "新对话"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,14 +241,19 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "yolo:打开聊天": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c13aead4b3bd9a1d",
+  "active": "088c328cd5fc7733",
   "lastOpenFiles": [
-    "机械工程/面试/面试初学.md",
+    "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
     "Templater/灵感创意/灵感创意模板.md",
     "Templater/机械工程/机械工程模板.md",
+    "YOLO",
+    "Excalidraw",
+    "机械工程/面试/面试初学.md",
     "机械工程/面试",
     "Templater/机械工程",
     "机械工程",
@@ -224,7 +261,6 @@
     "Markdown学习/使用Markdown语法进行创作.md",
     "Templater/灵感创意/未命名",
     "Templater/灵感创意",
-    "Templater",
-    "YOLO"
+    "Templater"
   ]
 }
