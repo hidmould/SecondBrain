@@ -251,6 +251,22 @@
       },
       "updatedAt": 1778219353129,
       "createdAt": 1778219353129
+    },
+    "BhxZ0wK6isndVO22fxZvhI2ATdEoqr2G": {
+      "id": "BhxZ0wK6isndVO22fxZvhI2ATdEoqr2G",
+      "plugin": "omnisearch",
+      "title": "Omnisearch",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "692c75064f857232e5e1d7e7da7ac9355613068fd2d20c38b90cf60e2e6e766d",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "2c7c882c2c7c882c2c7c882c2c7c882c"
+      },
+      "updatedAt": 1778221090403,
+      "createdAt": 1778221090403
     }
   }
 }
