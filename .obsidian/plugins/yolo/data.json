@@ -19,6 +19,8 @@
       "id": "kimi-moonshot/moonshot-v1-8k",
       "model": "moonshot-v1-8k",
       "name": "moonshot-v1-8k",
+      "enable": true,
+      "reasoningType": "none",
       "maxContextTokens": 262144,
       "modalities": [
         "text"
@@ -28,9 +30,7 @@
         "webSearch": {
           "enabled": false
         }
-      },
-      "reasoningType": "none",
-      "enable": true
+      }
     }
   ],
   "embeddingModels": [],
@@ -186,8 +186,8 @@
       "name": "Default",
       "description": "Default editing agent for sidebar chat.",
       "systemPrompt": "",
-      "modelId": "",
       "persona": "balanced",
+      "modelId": "",
       "enableTools": true,
       "includeBuiltinTools": true,
       "enabledToolNames": [],
@@ -200,7 +200,7 @@
   ],
   "currentAssistantId": "__default_agent__",
   "__meta": {
-    "updatedAt": 1778053883383,
+    "updatedAt": 1778218679900,
     "deviceId": "7ba6424c-abc0-4626-9a54-f5b758f244ef"
   }
 }

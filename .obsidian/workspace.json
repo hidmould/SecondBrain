@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f85d603f8f462739",
+        "id": "c1012cfefeeb90b9",
         "type": "tabs",
         "children": [
           {
-            "id": "a42caa3c237131a0",
+            "id": "5a4ae60459127304",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "机械工程/面试/面试初学.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "面试初学"
             }
           }
         ]
@@ -196,9 +200,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "机械工程/面试/面试初学.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "面试初学的笔记属性"
             }
           }
         ],
@@ -206,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
+    "width": 476.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -228,10 +234,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a42caa3c237131a0",
+  "active": "5a4ae60459127304",
   "lastOpenFiles": [
-    "机械工程/面试/面试初学.md",
     "IT/Java/Redis.md",
+    "Markdown学习/标题语法.md",
+    "Templater/灵感创意/灵感创意模板.md",
+    "Markdown学习/使用Markdown语法进行创作.md",
+    "机械工程/面试/面试初学.md",
     "YOLO",
     "Templater/机械工程/机械工程模板.md",
     "机械工程/面试/未命名.md",
@@ -240,13 +249,10 @@
     "机械工程/未命名.md",
     "机械工程",
     "Templater/机械工程",
-    "Templater/灵感创意/灵感创意模板.md",
-    "Markdown学习/使用Markdown语法进行创作.md",
     "Templater/机械工程",
     "Markdown学习/未命名.md",
     "Templater/灵感创意",
     "Templater",
-    "Markdown学习/标题语法.md",
     "Markdown学习/未命名",
     "Markdown学习/非标题语法.md",
     "未命名.canvas",

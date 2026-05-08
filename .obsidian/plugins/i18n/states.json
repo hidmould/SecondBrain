@@ -59,6 +59,12 @@
             "isApplied": true,
             "pluginVersion": "1.0.1",
             "translationVersion": "2.0.0"
+        },
+        "quick-peek-sidebar": {
+            "id": "quick-peek-sidebar",
+            "isApplied": true,
+            "pluginVersion": "1.0.4",
+            "translationVersion": "1.0.0"
         }
     },
     "themes": {

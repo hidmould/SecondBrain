@@ -17,5 +17,14 @@
       ],
       "key": "L"
     }
+  ],
+  "obsidian-sidebar-expand-on-hover:Toggle-Right-Sidebar-Expand-On-Hover": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }

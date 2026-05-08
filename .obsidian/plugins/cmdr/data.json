@@ -20,12 +20,6 @@
       "icon": "lucide-git-pull-request-arrow",
       "name": "Git: 拉取",
       "mode": "any"
-    },
-    {
-      "id": "obsidian-git:open-git-view",
-      "icon": "lucide-a-arrow-down",
-      "name": "Git: 打开源代码管理视图",
-      "mode": "any"
     }
   ],
   "macros": [],

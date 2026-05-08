@@ -235,6 +235,22 @@
       },
       "updatedAt": 1778166711839,
       "createdAt": 1778166711839
+    },
+    "-KFZwZPG07yya2_JhMibTs5jgiJ54PUE": {
+      "id": "-KFZwZPG07yya2_JhMibTs5jgiJ54PUE",
+      "plugin": "quick-peek-sidebar",
+      "title": "Quick Peek Sidebar",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "7346bb3601bb5af494c9a38e41b8f4a9ebcdab202f2f013befe0a8a0c29ae91f",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "6a36ec446a36ec446a36ec446a36ec44"
+      },
+      "updatedAt": 1778219353129,
+      "createdAt": 1778219353129
     }
   }
 }
