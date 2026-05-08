@@ -242,12 +242,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +267,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fad70b18f5b88e90",
+  "active": "28feaf40371e7e9d",
   "lastOpenFiles": [
     "Templater/机械工程/机械工程模板.md",
     "Markdown学习/非标题语法.md",
