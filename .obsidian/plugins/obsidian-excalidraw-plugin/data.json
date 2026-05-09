@@ -2,6 +2,7 @@
   "copyLinkToElemenetAnchorTo100": false,
   "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
+  "phoneFooterSafeAreaPadding": false,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -30,7 +31,7 @@
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "displaySVGInPreview": false,
-  "previewImageType": "SVGIMG",
+  "previewImageType": "SVG",
   "renderingConcurrency": 3,
   "allowImageCache": true,
   "allowImageCacheInScene": true,
@@ -114,7 +115,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.20.6",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.22.3",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -127,6 +128,7 @@
   "scriptEngineSettings": {},
   "previousRelease": "2.22.3",
   "showReleaseNotes": true,
+  "excalidrawMasteryPromoCollapsed": false,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -601,8 +603,8 @@
         "defaultAction": "new-tab",
         "rules": [
           {
-            "shift": false,
-            "ctrl_cmd": false,
+            "shift": true,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"
@@ -817,7 +819,5 @@
     "alignment": "center",
     "margin": "normal"
   },
-  "disableContextMenu": false,
-  "phoneFooterSafeAreaPadding": false,
-  "excalidrawMasteryPromoCollapsed": false
+  "disableContextMenu": false
 }

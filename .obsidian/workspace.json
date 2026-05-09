@@ -34,9 +34,55 @@
               "icon": "lucide-file",
               "title": "机械工程模板"
             }
+          },
+          {
+            "id": "6a8d2846359f3614",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-manager-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
+            }
+          },
+          {
+            "id": "8af68dd1fca88bce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 22.03.59.excalidraw"
+            }
+          },
+          {
+            "id": "29cb3a22b4a075c7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 21.56.46.excalidraw"
+            }
+          },
+          {
+            "id": "2a2267d531dd1170",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 21.56.46.excalidraw.restored"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 356.5
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -238,19 +284,20 @@
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
       "yolo:打开聊天": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
       "i18n:common.i18n": false,
       "obsidian-git:打开Git源代码管理": true,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b9ede04f478361df",
+  "active": "8af68dd1fca88bce",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
     "Excalidraw/Drawing 2026-05-08 23.10.50.excalidraw.md",
     "Templater/机械工程/机械工程模板.md",
     "Templater/灵感创意/灵感创意模板.md",
@@ -284,7 +331,6 @@
     "使用Markdown语法创作.md",
     "欢迎.md",
     "关系图.md",
-    "创建链接.md",
-    "未命名 1.md"
+    "创建链接.md"
   ]
 }

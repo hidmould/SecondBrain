@@ -262,19 +262,19 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
+      "yolo:打开聊天": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-git:打开Git源代码管理": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "yolo:打开聊天": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "088c328cd5fc7733",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
     "YOLO",
     "IT/Java/Redis.md",
     "Templater/灵感创意/灵感创意模板.md",
