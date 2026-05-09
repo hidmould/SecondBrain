@@ -2,7 +2,6 @@
   "copyLinkToElemenetAnchorTo100": false,
   "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
-  "phoneFooterSafeAreaPadding": false,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -128,7 +127,6 @@
   "scriptEngineSettings": {},
   "previousRelease": "2.22.3",
   "showReleaseNotes": true,
-  "excalidrawMasteryPromoCollapsed": false,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -819,5 +817,7 @@
     "alignment": "center",
     "margin": "normal"
   },
-  "disableContextMenu": false
+  "disableContextMenu": false,
+  "phoneFooterSafeAreaPadding": false,
+  "excalidrawMasteryPromoCollapsed": false
 }
