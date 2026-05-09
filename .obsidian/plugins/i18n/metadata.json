@@ -225,22 +225,16 @@
       "plugin": "obsidian-excalidraw-plugin",
       "title": "Excalidraw",
       "type": "plugin",
-      "origin": "local",
+      "origin": "cloud",
       "isActive": false,
       "checksum": "520016fb32f8f36b97c4f3bf99be225b90c59e281b69e55f695fc656aca097b7",
-      "updatedAt": 1778253453959,
-      "createdAt": 1778253279298
-    },
-    "JElRW7cRGjodyqNm8eCT6kMt-aRi2j1G": {
-      "id": "JElRW7cRGjodyqNm8eCT6kMt-aRi2j1G",
-      "plugin": "obsidian-excalidraw-plugin",
-      "title": "Excalidraw",
-      "type": "plugin",
-      "origin": "local",
-      "isActive": true,
-      "checksum": "db9e51ad9f6159c95e0fe155b8cee5f28593cacf94d60c3e8d924228f28598d1",
-      "updatedAt": 1778253460810,
-      "createdAt": 1778253460809
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "676a1c8a676a1c8a676a1c8a676a1c8a"
+      },
+      "updatedAt": 1778330750929,
+      "createdAt": 1778330750929
     }
   }
 }

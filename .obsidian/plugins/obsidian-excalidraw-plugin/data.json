@@ -31,7 +31,7 @@
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "displaySVGInPreview": false,
-  "previewImageType": "SVG",
+  "previewImageType": "SVGIMG",
   "renderingConcurrency": 3,
   "allowImageCache": true,
   "allowImageCacheInScene": true,
@@ -115,7 +115,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.22.3",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.20.6",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -603,8 +603,8 @@
         "defaultAction": "new-tab",
         "rules": [
           {
-            "shift": true,
-            "ctrl_cmd": true,
+            "shift": false,
+            "ctrl_cmd": false,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"

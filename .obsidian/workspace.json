@@ -36,16 +36,6 @@
             }
           },
           {
-            "id": "beffc26d90b797eb",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-manager-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "i18n 管理中心"
-            }
-          },
-          {
             "id": "3e271ea105e74a9d",
             "type": "leaf",
             "state": {
@@ -56,37 +46,13 @@
             }
           },
           {
-            "id": "210b07bdddad02a5",
+            "id": "05a665609ab62ad9",
             "type": "leaf",
             "state": {
-              "type": "i18n-cloud-view",
+              "type": "i18n-manager-view",
               "state": {},
-              "icon": "cloud",
-              "title": "云端翻译中心"
-            }
-          },
-          {
-            "id": "70cb630286e37000",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-08 21.56.46.excalidraw"
-            }
-          },
-          {
-            "id": "2f8ec743b1a54bde",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-08 22.03.59.excalidraw"
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
             }
           }
         ],
@@ -283,6 +249,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "graph:查看关系图谱": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
@@ -297,11 +264,10 @@
       "i18n:common.i18n": false,
       "obsidian-git:打开Git源代码管理": true,
       "yolo:打开聊天": true,
-      "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "3e271ea105e74a9d",
+  "active": "05a665609ab62ad9",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
     "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",

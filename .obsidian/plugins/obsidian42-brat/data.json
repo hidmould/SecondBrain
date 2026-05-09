@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "zsviczian/obsidian-excalidraw-plugin",
     "nhaouari/obsidian-textgenerator-plugin",
     "wambo121/Floating-Settings-for-Obsidian",
     "wish5115/obsidian-floating-settings",
@@ -7,6 +8,10 @@
     "eondrcode/obsidian-i18n"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "zsviczian/obsidian-excalidraw-plugin",
+      "version": "2.20.6"
+    },
     {
       "repo": "nhaouari/obsidian-textgenerator-plugin",
       "version": "0.8.1"
