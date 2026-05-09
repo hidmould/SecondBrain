@@ -36,6 +36,36 @@
             }
           },
           {
+            "id": "beffc26d90b797eb",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-manager-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
+            }
+          },
+          {
+            "id": "3e271ea105e74a9d",
+            "type": "leaf",
+            "state": {
+              "type": "wizard-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "使用帮助"
+            }
+          },
+          {
+            "id": "210b07bdddad02a5",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-cloud-view",
+              "state": {},
+              "icon": "cloud",
+              "title": "云端翻译中心"
+            }
+          },
+          {
             "id": "70cb630286e37000",
             "type": "leaf",
             "state": {
@@ -271,10 +301,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2f8ec743b1a54bde",
+  "active": "3e271ea105e74a9d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
     "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-08 23.10.50.excalidraw.md",
     "Templater/机械工程/机械工程模板.md",
     "Templater/灵感创意/灵感创意模板.md",
     "Excalidraw",
@@ -308,7 +339,6 @@
     "欢迎.md",
     "关系图.md",
     "创建链接.md",
-    "未命名 1.md",
-    "高洪波.md"
+    "未命名 1.md"
   ]
 }
