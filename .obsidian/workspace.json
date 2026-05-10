@@ -4,73 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "741c5464dc7dcff0",
+        "id": "58e88f659dc8fedc",
         "type": "tabs",
         "children": [
           {
-            "id": "0ffd06fff62188c8",
+            "id": "62d0986cd050dfd8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md"
+                "file": "Templater/灵感创意/灵感创意模板.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-08 22.03.59.excalidraw"
+              "icon": "lucide-file",
+              "title": "灵感创意模板"
             }
           },
           {
-            "id": "8e0c6f70e38f344f",
+            "id": "dadb6703989ee218",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md"
+                "file": "Templater/机械工程/机械工程模板.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-08 21.56.46.excalidraw"
+              "icon": "lucide-file",
+              "title": "机械工程模板"
             }
           },
           {
-            "id": "2e248de689c3ca03",
+            "id": "0b3686a8a77db6c7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md"
+                "file": "Markdown学习/使用Markdown语法进行创作.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-08 21.56.46.excalidraw.restored"
-            }
-          },
-          {
-            "id": "7cc7065bd4514899",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-manager-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "i18n 管理中心"
+              "icon": "lucide-file",
+              "title": "使用Markdown语法进行创作"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "a05d771be2a57ab0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b7303b8a195069f",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-cloud-view",
-              "state": {},
-              "icon": "cloud",
-              "title": "云端翻译中心"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,7 +246,7 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
@@ -278,19 +258,20 @@
       "i18n:common.i18n": false,
       "obsidian-git:打开Git源代码管理": true,
       "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": true
     }
   },
-  "active": "7cc7065bd4514899",
+  "active": "dadb6703989ee218",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
-    "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
-    "Templater/灵感创意/灵感创意模板.md",
-    "Markdown学习/标题语法.md",
-    "Markdown学习/非标题语法.md",
     "Markdown学习/使用Markdown语法进行创作.md",
     "Templater/机械工程/机械工程模板.md",
+    "Templater/灵感创意/灵感创意模板.md",
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-10 19.12.52.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
+    "Excalidraw/excalidraw.md",
+    "Markdown学习/标题语法.md",
+    "Markdown学习/非标题语法.md",
     "Excalidraw/Drawing 2026-05-08 23.10.50.excalidraw.md",
     "Excalidraw",
     "Clippings/去了一趟澳洲-昆士兰.md",
@@ -318,7 +299,6 @@
     "[哔哩哔哩.md",
     "使用Markdown语法创作.md",
     "欢迎.md",
-    "关系图.md",
-    "创建链接.md"
+    "关系图.md"
   ]
 }
