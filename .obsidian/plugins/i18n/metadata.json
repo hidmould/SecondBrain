@@ -235,6 +235,22 @@
       },
       "updatedAt": 1778330750929,
       "createdAt": 1778330750929
+    },
+    "xC4ttKw_Jccq42GMAq0gA7MlWBKkwXHY": {
+      "id": "xC4ttKw_Jccq42GMAq0gA7MlWBKkwXHY",
+      "plugin": "global-proxy",
+      "title": "Global Proxy",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "19746671c568d21686cffcd9f62b2d082c1849507e91d370e9fb0cfddc9845ef",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "223dd900223dd900223dd900223dd900"
+      },
+      "updatedAt": 1778399574002,
+      "createdAt": 1778399574002
     }
   }
 }

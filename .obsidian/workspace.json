@@ -35,16 +35,42 @@
             "id": "2e248de689c3ca03",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Drawing 2026-05-08 21.56.46.excalidraw.restored"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 21.56.46.excalidraw.restored"
+            }
+          },
+          {
+            "id": "7cc7065bd4514899",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-manager-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "a05d771be2a57ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7303b8a195069f",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-cloud-view",
+              "state": {},
+              "icon": "cloud",
+              "title": "云端翻译中心"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -256,11 +281,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2e248de689c3ca03",
+  "active": "7cc7065bd4514899",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "Templater/灵感创意/灵感创意模板.md",
     "Markdown学习/标题语法.md",
     "Markdown学习/非标题语法.md",

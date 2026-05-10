@@ -65,6 +65,12 @@
             "isApplied": true,
             "pluginVersion": "3.6.2",
             "translationVersion": "1.0.0"
+        },
+        "global-proxy": {
+            "id": "global-proxy",
+            "isApplied": true,
+            "pluginVersion": "1.0.4",
+            "translationVersion": "2.0.0"
         }
     },
     "themes": {

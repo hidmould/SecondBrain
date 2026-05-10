@@ -15,5 +15,6 @@
   "calendar",
   "cmdr",
   "obsidian-local-rest-api",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "global-proxy"
 ]
