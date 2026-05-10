@@ -4,63 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c421d4b7d9531145",
+        "id": "cb113595dac1e4a4",
         "type": "tabs",
         "children": [
           {
-            "id": "99aae766357626ea",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "新对话"
-            }
-          },
-          {
-            "id": "7ec9f92d6b19c59c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templater/灵感创意/灵感创意模板.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "灵感创意模板"
-            }
-          },
-          {
-            "id": "46985ece4bb06077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机械工程/面试/面试初学.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "面试初学"
-            }
-          },
-          {
-            "id": "c13aead4b3bd9a1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templater/机械工程/机械工程模板.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "机械工程模板"
-            }
-          },
-          {
-            "id": "088c328cd5fc7733",
+            "id": "19a48a034cbcf5da",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -72,7 +20,7 @@
             }
           },
           {
-            "id": "142bbf527350a9d1",
+            "id": "b08045e3e34abc28",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -82,23 +30,9 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-05-08 22.03.59.excalidraw"
             }
-          },
-          {
-            "id": "72566bccc5590e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Java/Redis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redis"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,16 +205,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "088c328cd5fc7733",
+  "active": "b08045e3e34abc28",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
     "YOLO",
-    "IT/Java/Redis.md",
     "Templater/灵感创意/灵感创意模板.md",
-    "Templater/机械工程/机械工程模板.md",
-    "Excalidraw",
     "机械工程/面试/面试初学.md",
+    "Templater/机械工程/机械工程模板.md",
+    "IT/Java/Redis.md",
+    "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
+    "Excalidraw",
     "机械工程/面试",
     "Templater/机械工程",
     "机械工程",

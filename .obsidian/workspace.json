@@ -139,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -293,7 +294,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8af68dd1fca88bce",
+  "active": "037528caacdf98fe",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
