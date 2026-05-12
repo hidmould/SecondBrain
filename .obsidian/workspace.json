@@ -36,21 +36,19 @@
             }
           },
           {
-            "id": "0b3686a8a77db6c7",
+            "id": "7d4192ceac656868",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Markdown学习/使用Markdown语法进行创作.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "使用Markdown语法进行创作"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 21.56.46.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,12 +259,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": true
     }
   },
-  "active": "dadb6703989ee218",
+  "active": "7d4192ceac656868",
   "lastOpenFiles": [
-    "Markdown学习/使用Markdown语法进行创作.md",
-    "Templater/机械工程/机械工程模板.md",
-    "Templater/灵感创意/灵感创意模板.md",
+    "Excalidraw/Drawing 2026-05-12 11.08.18.excalidraw.md",
+    "Excalidraw/未命名.canvas",
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
+    "Templater/机械工程/机械工程模板.md",
+    "Markdown学习/使用Markdown语法进行创作.md",
+    "Templater/灵感创意/灵感创意模板.md",
     "Excalidraw/Drawing 2026-05-10 19.12.52.excalidraw.md",
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "Excalidraw/excalidraw.md",
@@ -297,8 +297,6 @@
     "[AnuPpuccin/snippets/extended-colorschemes.css.md",
     "跳楼.md",
     "[哔哩哔哩.md",
-    "使用Markdown语法创作.md",
-    "欢迎.md",
-    "关系图.md"
+    "使用Markdown语法创作.md"
   ]
 }

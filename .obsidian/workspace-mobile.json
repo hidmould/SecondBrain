@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb113595dac1e4a4",
+        "id": "787d73998178391c",
         "type": "tabs",
         "children": [
           {
-            "id": "19a48a034cbcf5da",
+            "id": "469bf56569937273",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -20,15 +20,15 @@
             }
           },
           {
-            "id": "b08045e3e34abc28",
+            "id": "2bab88517d64328d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-05-12 11.07.56.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-08 22.03.59.excalidraw"
+              "title": "Drawing 2026-05-12 11.07.56.excalidraw"
             }
           }
         ],
@@ -197,18 +197,19 @@
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
       "yolo:打开聊天": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-git:打开Git源代码管理": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b08045e3e34abc28",
+  "active": "2bab88517d64328d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-12 11.07.56.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "YOLO",
     "Templater/灵感创意/灵感创意模板.md",
     "机械工程/面试/面试初学.md",
