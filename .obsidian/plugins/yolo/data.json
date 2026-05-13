@@ -82,7 +82,7 @@
     "chatApplyMode": "review-required",
     "chatTitlePrompt": "",
     "chatMode": "chat",
-    "agentModeWarningConfirmed": false,
+    "agentModeWarningConfirmed": true,
     "reasoningLevelByModelId": {},
     "historyArchiveEnabled": true,
     "historyArchiveThreshold": 50,
@@ -200,7 +200,7 @@
   ],
   "currentAssistantId": "__default_agent__",
   "__meta": {
-    "updatedAt": 1778411467418,
+    "updatedAt": 1778681830088,
     "deviceId": "7ba6424c-abc0-4626-9a54-f5b758f244ef"
   }
 }
