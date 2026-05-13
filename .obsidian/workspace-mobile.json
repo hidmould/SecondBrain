@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "787d73998178391c",
+        "id": "f68fc04b1ea91f47",
         "type": "tabs",
         "children": [
           {
-            "id": "469bf56569937273",
+            "id": "05519c9a5c810ee8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-08 21.56.46.excalidraw"
-            }
-          },
-          {
-            "id": "2bab88517d64328d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-12 11.07.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-12 11.07.56.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,9 +190,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2bab88517d64328d",
+  "active": "05519c9a5c810ee8",
   "lastOpenFiles": [
+    "Templater/机械工程/Drawing 2026-05-12 11.17.10.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-12 11.17.47.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-12 11.11.45.excalidraw.md",
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-12 11.09.08.excalidraw.md",
     "Excalidraw/Drawing 2026-05-12 11.07.56.excalidraw.md",
     "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
     "YOLO",
