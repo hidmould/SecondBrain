@@ -274,50 +274,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": true
     }
   },
-  "floating": {
-    "id": "7accb0925b0892c2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "73273440a07195df",
-        "type": "window",
-        "children": [
-          {
-            "id": "fd28b74660964ed5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "63d20645d0a53aa3",
-                "type": "leaf",
-                "state": {
-                  "type": "smtcmp-chat-view",
-                  "state": {},
-                  "icon": "wand-sparkles",
-                  "title": "新对话"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 97,
-        "y": 230,
-        "width": 795,
-        "height": 804,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "28feaf40371e7e9d",
+  "active": "765140dc8fd1058f",
   "lastOpenFiles": [
+    "机械工程/学习/_附件_/材料的选择.png",
+    "机械工程/学习/材料.md",
     "机械工程/学习/工程图.md",
     "机械工程/学习/_附件_/材料的特性2.png",
     "机械工程/学习/_附件_/Pasted image 20260513235627 1.png",
     "机械工程/学习/_附件_/Pasted image 20260513235704.png",
-    "机械工程/学习/材料.md",
     "机械工程/学习/_附件_/材料的特性.png",
-    "机械工程/学习/_附件_/材料的选择.png",
     "Markdown学习/标题语法.md",
     "Markdown学习/非标题语法.md",
     "机械工程/面试/面试初学.md",
