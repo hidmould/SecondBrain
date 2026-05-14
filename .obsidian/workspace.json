@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -251,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,6 +277,7 @@
   },
   "active": "765140dc8fd1058f",
   "lastOpenFiles": [
+    "YOLO",
     "机械工程/学习/_附件_/材料的选择.png",
     "机械工程/学习/材料.md",
     "机械工程/学习/工程图.md",
@@ -286,7 +289,6 @@
     "Markdown学习/非标题语法.md",
     "机械工程/面试/面试初学.md",
     "IT/Java/Redis.md",
-    "YOLO",
     "Clippings/Bilibili/2026-05-13-【机械设计】目前B站最全面，易懂的机械设计材料选型教程，从0基础到精通！小白都能学会！让你少走99%的弯路-P1-1. 材料的选择.md",
     "2026-02-26.md",
     "Clippings/Bilibili",
