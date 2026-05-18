@@ -251,6 +251,38 @@
       },
       "updatedAt": 1778399574002,
       "createdAt": 1778399574002
+    },
+    "yrQ06G7CSV8w77t51Ix-_PWPj5YS1_ov": {
+      "id": "yrQ06G7CSV8w77t51Ix-_PWPj5YS1_ov",
+      "plugin": "fileorganizer2000",
+      "title": "Note Companion (prev. File Organizer 2000)",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "8dbff49a4fb129438d054f5f53c897e71844ea3448527e991ba3fd55173e649b",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "141ab629141ab629141ab629141ab629"
+      },
+      "updatedAt": 1779014226089,
+      "createdAt": 1779014226089
+    },
+    "YpMdsKhm-kaC5LCYR8XmBbUftedYYc3d": {
+      "id": "YpMdsKhm-kaC5LCYR8XmBbUftedYYc3d",
+      "plugin": "copilot",
+      "title": "Copilot",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "526773d5c889cf9842d6916a2aa492b2adda93875f766634226abfae6233c296",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "185225ef185225ef185225ef185225ef"
+      },
+      "updatedAt": 1779015432907,
+      "createdAt": 1779015432907
     }
   }
 }

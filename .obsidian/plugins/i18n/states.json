@@ -71,6 +71,18 @@
             "isApplied": true,
             "pluginVersion": "1.0.4",
             "translationVersion": "2.0.0"
+        },
+        "fileorganizer2000": {
+            "id": "fileorganizer2000",
+            "isApplied": true,
+            "pluginVersion": "3.6.20",
+            "translationVersion": "1.0.0"
+        },
+        "copilot": {
+            "id": "copilot",
+            "isApplied": true,
+            "pluginVersion": "3.3.2",
+            "translationVersion": "1.0.0"
         }
     },
     "themes": {

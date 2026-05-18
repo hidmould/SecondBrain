@@ -8,13 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c97497cf73768aad",
+            "id": "95d1da66fac1a444",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "i18n-manager-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
+            }
+          },
+          {
+            "id": "025cf6460f13836b",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-cloud-view",
+              "state": {},
+              "icon": "cloud",
+              "title": "云端翻译中心"
             }
           }
         ]
@@ -132,20 +142,6 @@
             }
           },
           {
-            "id": "6d3c5803621fbda9",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
             "id": "28feaf40371e7e9d",
             "type": "leaf",
             "state": {
@@ -185,20 +181,31 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "机械工程/学习/材料.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "材料的笔记属性"
+              "title": "笔记属性"
+            }
+          },
+          {
+            "id": "f39b542c8cee2c21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,50 +227,50 @@
       "obsidian-excalidraw-plugin:新建绘图文件": true
     }
   },
-  "active": "a6d4525492cc20e7",
+  "active": "95d1da66fac1a444",
   "lastOpenFiles": [
+    "机械工程/学习/材料.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "机械工程/学习/工程图.md",
+    "机械工程/面试/面试初学.md",
+    "_NoteCompanion/Templates/flash_cards.md",
+    "_NoteCompanion/Templates/enhance.md",
+    "_NoteCompanion/Templates/youtube_video.md",
+    "_NoteCompanion/Templates/research_paper.md",
+    "_NoteCompanion/Templates/meeting_note.md",
+    "Recordings",
+    "_NoteCompanion/Backups",
+    "_NoteCompanion/Templates",
+    "_NoteCompanion/Logs",
+    "_NoteCompanion/Processed/Attachments",
+    "_NoteCompanion/Processed",
+    "_NoteCompanion/Inbox",
+    "_NoteCompanion",
     "机械工程/学习/【机械设计】目前B站最全面，易懂的机械设计材料选型教程，从0基础到精通！小白都能学会！让你少走99%的弯路 p01 1. 材料的选择.md",
     "Excalidraw/Drawing 2026-05-12 11.11.45.excalidraw.md",
     "Templater/灵感创意/灵感创意模板.md",
-    "Templater/机械工程/机械工程模板.md",
-    "Markdown学习/非标题语法.md",
-    "Markdown学习/标题语法.md",
-    "Markdown学习/使用Markdown语法进行创作.md",
-    "机械工程/面试/面试初学.md",
-    "机械工程/学习/工程图.md",
-    "机械工程/学习/材料.md",
-    "机械工程/学习/我把 Obsidian 改成了手机备忘录，用Obsidian打造你的高颜值私人小记！.md",
-    "机械工程/学习/【开源插件】Obsidian 免费同步方案 Fast Note Sync (1).md",
     "机械工程/学习/_附件_/材料的特性.png",
     "机械工程/学习/_附件_/材料的特性2.png",
     "机械工程/学习/_附件_/材料的选择.png",
-    "YOLO",
     "机械工程/学习/_附件_/Pasted image 20260513235627 1.png",
     "机械工程/学习/_附件_/Pasted image 20260513235704.png",
-    "IT/Java/Redis.md",
-    "Clippings/Bilibili/2026-05-13-【机械设计】目前B站最全面，易懂的机械设计材料选型教程，从0基础到精通！小白都能学会！让你少走99%的弯路-P1-1. 材料的选择.md",
-    "2026-02-26.md",
-    "Clippings/Bilibili",
-    "Clippings",
-    "机械工程/学习/_附件_",
-    "Templater/机械工程/Drawing 2026-05-12 11.17.10.excalidraw.md",
-    "机械工程/学习",
-    "未命名",
-    "Excalidraw/Drawing 2026-05-12 11.17.47.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-12 11.17.02.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-12 11.09.08.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-12 11.08.18.excalidraw.md",
     "Excalidraw/未命名.canvas",
-    "Excalidraw/Drawing 2026-05-10 19.12.52.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
-    "Excalidraw/excalidraw.md",
-    "Excalidraw/Drawing 2026-05-08 23.10.50.excalidraw.md",
-    "Excalidraw",
-    "Clippings/去了一趟澳洲-昆士兰.md",
-    "机械工程/面试",
-    "机械工程",
-    "机械工程",
     "未命名.canvas"
   ]
 }

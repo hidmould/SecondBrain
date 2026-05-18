@@ -2,7 +2,7 @@
   "agreement": true,
   "language": "zh-cn",
   "checkUpdates": true,
-  "searchText": "",
+  "searchText": "Copilot",
   "sort": "0",
   "author": "",
   "mode": 0,
@@ -393,6 +393,7 @@
   ],
   "githubProxyUrl": "https://ghp.ci/",
   "cloudRepos": [
+    "Ayanami-Shinji/obsidian-i18n-resources",
     "yunrr/obsidian-i18n-resources"
   ],
   "defaultCloudRepo": "",
