@@ -1,7 +1,0 @@
-{
-  "__VERSION__": 2,
-  "release.previous-version": "4.2.5",
-  "playback.screenshot.format": "image/png",
-  "media-lib.auto-import": true,
-  "playback.track.default-enabled": true
-}
