@@ -1,10 +1,10 @@
 {
   "version": "0.8.7",
-  "endpoint": "https://api.openai.com/v1",
+  "endpoint": "https://api.siliconflow.com/v1",
   "models": [],
   "api_key": "",
   "encrypt_keys": false,
-  "selectedProvider": "OpenAI Chat (Langchain) 1",
+  "selectedProvider": "OpenAI Chat (Langchain)",
   "max_tokens": 5000,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
@@ -98,10 +98,15 @@
       "api_version": ""
     },
     "OpenAI Chat (Langchain)": {
-      "basePath": "https://api.openai.com/v1",
-      "model": "gpt-4o",
-      "reasoningEffort": "medium"
+      "basePath": "https://api.siliconflow.com/v1",
+      "model": "computer-use-preview",
+      "reasoningEffort": "medium",
+      "api_key": ""
     }
   },
-  "LLMProviderOptionsKeysHashed": {}
+  "LLMProviderOptionsKeysHashed": {
+    "whisper.api_key": "__@#key_prefix#@__",
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-izlwxetyhffjgvrypldcptzrwwwkwraalhrvsfquanixzpil"
+  },
+  "api_key_encrypted": "__@#key_prefix#@__sk-izlwxetyhffjgvrypldcptzrwwwkwraalhrvsfquanixzpil"
 }

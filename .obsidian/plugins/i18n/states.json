@@ -3,13 +3,13 @@
         "templater-obsidian": {
             "id": "templater-obsidian",
             "isApplied": true,
-            "pluginVersion": "2.20.3",
+            "pluginVersion": "2.20.4",
             "translationVersion": "2.0.0"
         },
         "obsidian-git": {
             "id": "obsidian-git",
             "isApplied": true,
-            "pluginVersion": "2.38.2",
+            "pluginVersion": "2.38.3",
             "translationVersion": "1.0.0"
         },
         "obsidian42-brat": {
@@ -57,7 +57,7 @@
         "omnisearch": {
             "id": "omnisearch",
             "isApplied": true,
-            "pluginVersion": "1.28.2",
+            "pluginVersion": "1.29.2",
             "translationVersion": "1.0.0"
         },
         "obsidian-local-rest-api": {
@@ -71,6 +71,12 @@
             "isApplied": true,
             "pluginVersion": "1.0.4",
             "translationVersion": "2.0.0"
+        },
+        "copilot": {
+            "id": "copilot",
+            "isApplied": true,
+            "pluginVersion": "3.3.2",
+            "translationVersion": "1.0.0"
         }
     },
     "themes": {

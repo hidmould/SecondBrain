@@ -38,5 +38,6 @@
   "welcomeMessage": "1.21.0",
   "verboseLogging": false,
   "DANGER_httpHost": null,
-  "DANGER_forceSaveCache": false
+  "DANGER_forceSaveCache": false,
+  "indexFilesWithoutExtension": false
 }
