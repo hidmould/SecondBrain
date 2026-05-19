@@ -16,5 +16,6 @@
   "cmdr",
   "obsidian-local-rest-api",
   "obsidian-excalidraw-plugin",
-  "obsidian-linter"
+  "obsidian-linter",
+  "media-extended"
 ]
