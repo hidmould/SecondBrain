@@ -10,12 +10,12 @@
   "templater-obsidian",
   "obsidian-style-settings",
   "opener",
-  "yolo",
   "remotely-save",
   "calendar",
   "cmdr",
   "obsidian-local-rest-api",
   "obsidian-excalidraw-plugin",
   "obsidian-linter",
-  "terminal"
+  "yolo",
+  "copilot"
 ]

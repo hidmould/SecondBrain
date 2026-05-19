@@ -1,39 +1,65 @@
 {
-  "version": 50,
+  "version": 56,
   "providers": [
     {
-      "id": "kimi-moonshot",
-      "presetType": "openai-compatible",
+      "id": "硅基流动",
+      "presetType": "siliconflow",
       "apiType": "openai-compatible",
-      "baseUrl": "https://api.moonshot.cn/v1",
-      "apiKey": "sk-xKfR8CJiCRO9049eKZRdvKox69pJCql2e6ygKFtF0ergzdsa",
-      "additionalSettings": {
-        "noStainless": false,
-        "requestTransportMode": "node"
-      }
+      "baseUrl": "https://api.siliconflow.cn/v1",
+      "apiKey": "sk-izlwxetyhffjgvrypldcptzrwwwkwraalhrvsfquanixzpil"
     }
   ],
   "chatModels": [
     {
-      "providerId": "kimi-moonshot",
-      "id": "kimi-moonshot/moonshot-v1-8k",
-      "model": "moonshot-v1-8k",
-      "name": "moonshot-v1-8k",
-      "enable": true,
-      "reasoningType": "none",
-      "maxContextTokens": 262144,
+      "providerId": "硅基流动",
+      "id": "Qwen/Qwen3-32B",
+      "model": "Qwen/Qwen3-32B",
+      "name": "Qwen/Qwen3-32B",
+      "maxContextTokens": 40960,
       "modalities": [
-        "text"
+        "text",
+        "vision",
+        "pdf"
       ],
-      "toolType": "none",
-      "gptTools": {
-        "webSearch": {
-          "enabled": false
+      "builtinToolProvider": "none",
+      "builtinTools": {
+        "gpt": {
+          "webSearch": {
+            "enabled": false
+          }
+        },
+        "openrouter": {
+          "webSearch": {
+            "enabled": false
+          }
+        },
+        "grok": {
+          "webSearch": {
+            "enabled": false
+          }
+        },
+        "gemini": {
+          "webSearch": {
+            "enabled": false
+          },
+          "urlContext": {
+            "enabled": false
+          }
         }
-      }
+      },
+      "reasoningType": "none"
     }
   ],
-  "embeddingModels": [],
+  "embeddingModels": [
+    {
+      "providerId": "硅基流动",
+      "id": "Qwen/Qwen3-Embedding-0.6B",
+      "model": "Qwen/Qwen3-Embedding-0.6B",
+      "name": "Qwen/Qwen3-Embedding-0.6B",
+      "dimension": 1024,
+      "nativeDimension": 1024
+    }
+  ],
   "chatModelId": "",
   "chatTitleModelId": "",
   "embeddingModelId": "",
@@ -44,6 +70,7 @@
     "thresholdTokens": 20000,
     "minSimilarity": 0,
     "limit": 10,
+    "embeddingConcurrency": 10,
     "excludePatterns": [],
     "includePatterns": [],
     "indexPdf": true,
@@ -69,24 +96,18 @@
   "yolo": {
     "baseDir": "YOLO"
   },
-  "experimental": {
-    "storeDataInVault": false
-  },
-  "debug": {
-    "logModelRequestContext": false
-  },
+  "debug": {},
   "chatOptions": {
     "includeCurrentFileContent": true,
     "mentionDisplayMode": "inline",
     "mentionContextMode": "light",
     "chatApplyMode": "review-required",
     "chatTitlePrompt": "",
-    "chatMode": "chat",
+    "chatMode": "agent",
     "agentModeWarningConfirmed": true,
     "reasoningLevelByModelId": {},
     "historyArchiveEnabled": true,
     "historyArchiveThreshold": 50,
-    "tabTitleFollowsConversation": true,
     "autoContextCompactionEnabled": false,
     "autoContextCompactionThresholdMode": "tokens",
     "autoContextCompactionThresholdTokens": 24000,
@@ -94,7 +115,7 @@
     "imageReadingEnabled": true,
     "imageCompressionEnabled": true,
     "imageCompressionQuality": 85,
-    "externalImageFetchEnabled": false
+    "externalImageFetchEnabled": true
   },
   "notificationOptions": {
     "enabled": false,
@@ -125,7 +146,8 @@
       "contextRange": 4000,
       "maxSuggestionLength": 2000,
       "temperature": 0.5,
-      "requestTimeoutMs": 12000
+      "requestTimeoutMs": 12000,
+      "reasoningLevel": "off"
     },
     "tabCompletionTriggers": [
       {
@@ -196,11 +218,122 @@
       "skillPreferences": {},
       "createdAt": 1778052010251,
       "updatedAt": 1778052010251
+    },
+    {
+      "id": "b7e912b6-fc85-497d-ae2b-f227ec95eb1b",
+      "name": "Agent01",
+      "description": "",
+      "systemPrompt": "",
+      "icon": {
+        "type": "emoji",
+        "value": "🧠"
+      },
+      "persona": "balanced",
+      "enableTools": true,
+      "includeBuiltinTools": true,
+      "enabledToolNames": [
+        "yolo_local__fs_list",
+        "yolo_local__fs_search",
+        "yolo_local__fs_read",
+        "yolo_local__fs_edit",
+        "yolo_local__fs_create_file",
+        "yolo_local__fs_delete_file",
+        "yolo_local__fs_create_dir",
+        "yolo_local__fs_delete_dir",
+        "yolo_local__fs_move",
+        "yolo_local__memory_add",
+        "yolo_local__memory_update",
+        "yolo_local__memory_delete",
+        "yolo_local__open_skill",
+        "yolo_local__delegate_external_agent"
+      ],
+      "toolPreferences": {
+        "yolo_local__fs_list": {
+          "enabled": true,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__fs_search": {
+          "enabled": true,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__fs_read": {
+          "enabled": true,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__fs_edit": {
+          "enabled": true,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__fs_create_file": {
+          "enabled": true,
+          "approvalMode": "require_approval"
+        },
+        "yolo_local__fs_delete_file": {
+          "enabled": true,
+          "approvalMode": "require_approval"
+        },
+        "yolo_local__fs_create_dir": {
+          "enabled": true,
+          "approvalMode": "require_approval"
+        },
+        "yolo_local__fs_delete_dir": {
+          "enabled": true,
+          "approvalMode": "require_approval"
+        },
+        "yolo_local__fs_move": {
+          "enabled": true,
+          "approvalMode": "require_approval"
+        },
+        "yolo_local__memory_add": {
+          "enabled": true,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__memory_update": {
+          "enabled": true,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__memory_delete": {
+          "enabled": true,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__open_skill": {
+          "enabled": true,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__delegate_external_agent": {
+          "enabled": true,
+          "approvalMode": "require_approval"
+        },
+        "yolo_local__context_prune_tool_results": {
+          "enabled": false,
+          "approvalMode": "full_access"
+        },
+        "yolo_local__context_compact": {
+          "enabled": false,
+          "approvalMode": "full_access"
+        }
+      },
+      "enabledSkills": [
+        "skill-creator"
+      ],
+      "skillPreferences": {
+        "skill-creator": {
+          "enabled": true
+        }
+      },
+      "workspaceScope": {
+        "enabled": true,
+        "include": [],
+        "exclude": []
+      },
+      "createdAt": 1779202103607,
+      "updatedAt": 1779202158373
     }
   ],
-  "currentAssistantId": "__default_agent__",
+  "currentAssistantId": "b7e912b6-fc85-497d-ae2b-f227ec95eb1b",
+  "quickAskAssistantId": "b7e912b6-fc85-497d-ae2b-f227ec95eb1b",
   "__meta": {
-    "updatedAt": 1778681830088,
+    "updatedAt": 1779203168822,
     "deviceId": "7ba6424c-abc0-4626-9a54-f5b758f244ef"
   }
 }
