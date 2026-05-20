@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f68fc04b1ea91f47",
+        "id": "64a4a875cb81a78e",
         "type": "tabs",
         "children": [
           {
-            "id": "05519c9a5c810ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templater/灵感创意/灵感创意模板.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "灵感创意模板"
-            }
-          },
-          {
-            "id": "be62fc33d97a67d2",
+            "id": "9c2fdb9be1cc8adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "机械工程/学习/材料.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "材料"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templater/机械工程/机械工程模板.md",
+            "file": "Templater/灵感创意/灵感创意模板.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,29 +151,9 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
-      },
-      {
-        "id": "8ecac688d91d4c55",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
-        }
-      },
-      {
-        "id": "7f9616c68f39c4d3",
-        "type": "leaf",
-        "state": {
-          "type": "smtcmp-chat-view",
-          "state": {},
-          "icon": "wand-sparkles",
-          "title": "新对话"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,44 +165,55 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
-      "yolo:打开聊天": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-git:打开Git源代码管理": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false
+      "yolo:打开聊天": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7f9616c68f39c4d3",
+  "active": "9c2fdb9be1cc8adf",
   "lastOpenFiles": [
-    "YOLO",
-    "Templater/灵感创意/灵感创意模板.md",
-    "机械工程/学习/材料.md",
-    "机械工程/学习/工程图.md",
+    "textgenerator/templates/dalle/qua4K.md",
+    "textgenerator/templates/dalle/art3D.md",
+    "textgenerator/templates/dalle/qua85mm.md",
+    "textgenerator/templates/dalle/qua35mm.md",
+    "textgenerator/templates/dalle/artDeco.md",
+    "textgenerator/templates/dalle/artLine.md",
+    "textgenerator/templates/dalle/qua15mm.md",
+    "textgenerator/templates/dalle/quaMacro.md",
+    "textgenerator/templates/dalle/qua200mm.md",
+    "textgenerator/templates/dalle/quaBokeh.md",
+    "textgenerator/templates/dalle/ligFlare.md",
+    "textgenerator/templates/dalle/getPhoto.md",
+    "textgenerator/templates/dalle/artStock.md",
+    "textgenerator/templates/dalle/artAnime.md",
+    "textgenerator/templates/dalle/artPixel.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/dalle/sitNature.md",
+    "textgenerator/templates/dalle/modFanart.md",
+    "textgenerator/templates/dalle/ligStudio.md",
+    "textgenerator/templates/dalle/getPhotos.md",
+    "textgenerator/templates/dalle/getPhoto2.md",
+    "textgenerator/templates/dalle/artWarhol.md",
+    "textgenerator/templates/dalle/artUkiyoe.md",
+    "textgenerator/templates/dalle/artModern.md",
+    "textgenerator/templates/dalle/artBanksy.md",
+    "textgenerator/templates/dalle",
+    "textgenerator/templates/default",
+    "Clippings/Bilibili",
+    "textgenerator/templates",
+    "copilot/copilot-conversations",
+    "copilot",
+    "Clippings",
+    "textgenerator",
+    "机械工程/学习/_附件_/材料的特性.png",
     "机械工程/学习/_附件_/材料的选择.png",
     "机械工程/学习/_附件_/材料的特性2.png",
-    "机械工程/学习/_附件_/材料的特性.png",
     "机械工程/学习/_附件_",
-    "机械工程/学习",
-    "Templater/机械工程/Drawing 2026-05-12 11.17.10.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-12 11.17.47.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-12 11.11.45.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-12 11.09.08.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-12 11.07.56.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-08 21.56.46.excalidraw.restored.md",
-    "机械工程/面试/面试初学.md",
-    "Templater/机械工程/机械工程模板.md",
-    "IT/Java/Redis.md",
-    "Excalidraw/Drawing 2026-05-08 22.03.59.excalidraw.md",
-    "Excalidraw",
-    "机械工程/面试",
-    "Templater/机械工程",
-    "机械工程",
-    "Markdown学习/标题语法.md",
-    "Markdown学习/使用Markdown语法进行创作.md",
-    "Templater/灵感创意/未命名",
-    "Templater/灵感创意",
-    "Templater"
+    "机械工程/学习"
   ]
 }

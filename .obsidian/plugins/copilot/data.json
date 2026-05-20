@@ -80,7 +80,7 @@
     {
       "name": "gpt-5.5",
       "provider": "openai",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -91,7 +91,7 @@
     {
       "name": "gpt-5.4-mini",
       "provider": "openai",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -102,18 +102,18 @@
     {
       "name": "claude-sonnet-4-6",
       "provider": "anthropic",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ],
       "apiKey": ""
     },
     {
       "name": "gemini-3.1-flash-lite",
       "provider": "google",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": true,
       "projectEnabled": true,
       "capabilities": [
@@ -124,7 +124,7 @@
     {
       "name": "gemini-2.5-flash",
       "provider": "google",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": true,
       "projectEnabled": true,
       "capabilities": [
@@ -138,8 +138,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ],
       "apiKey": ""
     },
@@ -149,8 +149,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ],
       "apiKey": ""
     },
@@ -244,8 +244,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ],
       "apiKey": ""
     },
@@ -255,8 +255,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ],
       "apiKey": ""
     },
@@ -266,8 +266,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ],
       "apiKey": ""
     },
@@ -277,8 +277,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ],
       "apiKey": ""
     },
@@ -328,22 +328,6 @@
         "reasoning"
       ],
       "apiKey": ""
-    },
-    {
-      "name": "Qwen/Qwen3.6-27B",
-      "provider": "siliconflow",
-      "enabled": true,
-      "isBuiltIn": false,
-      "baseUrl": "",
-      "apiKey": "",
-      "isEmbeddingModel": false,
-      "capabilities": [
-        "reasoning",
-        "vision",
-        "websearch"
-      ],
-      "stream": true,
-      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [

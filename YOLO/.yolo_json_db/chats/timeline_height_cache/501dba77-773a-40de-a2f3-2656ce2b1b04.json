@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": 1779233142121,
+  "scopes": {
+    "560::15px|19.5px|\"??\", \"??\", \"??\", ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, \"Segoe UI\", \"Google Sans Flex\", Roboto, \"Inter Variable\", Inter, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", sans-serif|na|1rem|calc(1rem * 2.5)": {
+      "widthBucket": 560,
+      "styleSignature": "15px|19.5px|\"??\", \"??\", \"??\", ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, \"Segoe UI\", \"Google Sans Flex\", Roboto, \"Inter Variable\", Inter, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", sans-serif|na|1rem|calc(1rem * 2.5)",
+      "updatedAt": 1779233141124,
+      "heights": {
+        "bottom-anchor": 10,
+        "5c72e463-8a67-4043-ab9d-6aa1beb8d20c": 45,
+        "query-progress": 16,
+        "907d67db-91d1-4901-a0e8-ade29548f20e-slice-0": 91
+      }
+    },
+    "0::default": {
+      "widthBucket": 0,
+      "styleSignature": "default",
+      "updatedAt": 1779233117667,
+      "heights": {
+        "bottom-anchor": 10
+      }
+    },
+    "0::15px|19.5px|\"??\", \"??\", \"??\", ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, \"Segoe UI\", \"Google Sans Flex\", Roboto, \"Inter Variable\", Inter, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", sans-serif|na|1rem|calc(1rem * 2.5)": {
+      "widthBucket": 0,
+      "styleSignature": "15px|19.5px|\"??\", \"??\", \"??\", ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, \"Segoe UI\", \"Google Sans Flex\", Roboto, \"Inter Variable\", Inter, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", sans-serif|na|1rem|calc(1rem * 2.5)",
+      "updatedAt": 1779233099240,
+      "heights": {
+        "bottom-anchor": 1
+      }
+    }
+  }
+}

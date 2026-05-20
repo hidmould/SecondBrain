@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85e907e2e59d99cb",
+        "id": "c833100877008eda",
         "type": "tabs",
         "children": [
           {
-            "id": "6deba1a82fe58c5d",
+            "id": "f411a48acc4b89db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机械工程/面试/面试初学.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "面试初学"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9e688969d1d779df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "83d96ff6c9685303",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-cloud-view",
+              "type": "empty",
               "state": {},
-              "icon": "cloud",
-              "title": "云端翻译中心"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -211,9 +191,19 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "00a14196f2d45a67",
+            "type": "leaf",
+            "state": {
+              "type": "yolo-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "新对话"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -240,43 +230,44 @@
       "yolo:打开聊天": false
     }
   },
-  "active": "a6d4525492cc20e7",
+  "active": "00a14196f2d45a67",
   "lastOpenFiles": [
-    "textgenerator/templates/dalle/artNormanRockwell.md",
-    "YOLO",
-    "textgenerator/templates/dalle/ligAmbient.md",
-    "Clippings/Bilibili/2026-05-19-机械面试，建议背过这些再去面试-P1-机械高频面试题大全（金三银四找工作必看！！）.md",
+    "YOLO/Exports/新对话 - 2026-05-20.md",
+    "YOLO/Exports",
     "机械工程/面试/面试初学.md",
-    "copilot/copilot-conversations/你好@20260519_232243.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Clippings/Bilibili",
-    "Clippings",
-    "textgenerator/templates/dalle/artBauhaus.md",
-    "textgenerator/templates/dalle/quaMacro.md",
-    "textgenerator/templates/dalle/artPsychedelic.md",
-    "textgenerator/templates/dalle/artLowPoly.md",
+    "textgenerator/templates/dalle/qua4K.md",
+    "textgenerator/templates/dalle/art3D.md",
+    "textgenerator/templates/dalle/qua85mm.md",
+    "textgenerator/templates/dalle/qua35mm.md",
     "textgenerator/templates/dalle/qua15mm.md",
+    "textgenerator/templates/dalle/artLine.md",
+    "textgenerator/templates/dalle/artDeco.md",
+    "textgenerator/templates/dalle/quaMacro.md",
+    "textgenerator/templates/dalle/quaBokeh.md",
+    "textgenerator/templates/dalle/qua200mm.md",
+    "textgenerator/templates/dalle/ligFlare.md",
+    "textgenerator/templates/dalle/getPhoto.md",
+    "textgenerator/templates/dalle/artStock.md",
+    "textgenerator/templates/dalle/artPixel.md",
+    "textgenerator/templates/dalle/artAnime.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/dalle/sitNature.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/dalle/modFanart.md",
+    "textgenerator/templates/dalle/ligStudio.md",
+    "textgenerator/templates/dalle/getPhotos.md",
+    "textgenerator/templates/dalle/getPhoto2.md",
+    "textgenerator/templates/dalle/artWarhol.md",
+    "textgenerator/templates/dalle/artUkiyoe.md",
     "textgenerator/templates/dalle",
     "textgenerator/templates/default",
+    "Clippings/Bilibili",
     "textgenerator/templates",
+    "Clippings",
+    "Excalidraw",
     "textgenerator",
+    "YOLO",
+    "copilot/copilot-conversations",
     "机械工程/学习/_附件_/材料的特性2.png",
     "机械工程/学习/_附件_/材料的特性.png",
     "机械工程/学习/_附件_/材料的选择.png",
