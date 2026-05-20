@@ -11,10 +11,14 @@
             "id": "f411a48acc4b89db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "网站资源/axutongxue.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "axutongxue"
             }
           }
         ]
@@ -147,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械工程/学习/材料.md",
+                "file": "网站资源/axutongxue.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "材料 的大纲"
+              "title": "axutongxue 的大纲"
             }
           },
           {
@@ -203,11 +207,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 551.5
+    "width": 390.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +235,11 @@
       "yolo:打开聊天": false
     }
   },
-  "active": "00a14196f2d45a67",
+  "active": "f411a48acc4b89db",
   "lastOpenFiles": [
+    "网站资源/axutongxue.md",
+    "YOLO",
+    "网站资源",
     "YOLO/Exports/新对话 - 2026-05-20.md",
     "YOLO/Exports",
     "机械工程/面试/面试初学.md",
@@ -257,8 +265,6 @@
     "textgenerator/templates/dalle/ligStudio.md",
     "textgenerator/templates/dalle/getPhotos.md",
     "textgenerator/templates/dalle/getPhoto2.md",
-    "textgenerator/templates/dalle/artWarhol.md",
-    "textgenerator/templates/dalle/artUkiyoe.md",
     "textgenerator/templates/dalle",
     "textgenerator/templates/default",
     "Clippings/Bilibili",
@@ -266,8 +272,6 @@
     "Clippings",
     "Excalidraw",
     "textgenerator",
-    "YOLO",
-    "copilot/copilot-conversations",
     "机械工程/学习/_附件_/材料的特性2.png",
     "机械工程/学习/_附件_/材料的特性.png",
     "机械工程/学习/_附件_/材料的选择.png",
