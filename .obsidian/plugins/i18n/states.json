@@ -18,12 +18,6 @@
             "pluginVersion": "2.0.4",
             "translationVersion": "1.0.0"
         },
-        "better-export-pdf": {
-            "id": "better-export-pdf",
-            "isApplied": true,
-            "pluginVersion": "1.11.0",
-            "translationVersion": "1.0.0"
-        },
         "obsidian-hover-editor": {
             "id": "obsidian-hover-editor",
             "isApplied": true,

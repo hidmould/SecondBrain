@@ -1,5 +1,4 @@
 [
-  "better-export-pdf",
   "obsidian42-brat",
   "obsidian-git",
   "obsidian-hover-editor",
@@ -16,5 +15,6 @@
   "obsidian-local-rest-api",
   "obsidian-excalidraw-plugin",
   "obsidian-linter",
-  "yolo"
+  "yolo",
+  "obsidian-enhancing-export"
 ]
