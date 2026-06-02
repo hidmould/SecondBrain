@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -293,13 +292,13 @@
       "yolo:打开聊天": false
     }
   },
-  "active": "3a74665752f426ae",
+  "active": "9b59fcecb0f1a377",
   "lastOpenFiles": [
-    "机械工程/学习/工程图.md",
-    "IT/需求文档/智能博客管理系统需求文档.md",
-    "IT/需求文档",
-    "剪辑/口播/文稿文案/2分钟接地气生活感悟短视频口播稿.md",
     "机械工程/学习/材料.md",
+    "剪辑/口播/文稿文案/2分钟接地气生活感悟短视频口播稿.md",
+    "IT/需求文档/智能博客管理系统需求文档.md",
+    "机械工程/学习/工程图.md",
+    "IT/需求文档",
     "Clippings/智能科学与技术专业综合实践.md",
     "Clippings",
     "剪辑/口播/文稿文案/简述.md",
