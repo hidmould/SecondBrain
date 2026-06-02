@@ -59,5 +59,6 @@
   "lastExportDirectory": {
     "win32": "D:\\Downloads"
   },
-  "lastExportType": "Word (.docx)"
+  "lastExportType": "Word (.docx)",
+  "showOverwriteConfirmation": false
 }
