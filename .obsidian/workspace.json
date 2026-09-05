@@ -11,13 +11,32 @@
             "id": "6684f82e8b9a6ef9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "网站资源/axutongxue.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "axutongxue"
+            }
+          },
+          {
+            "id": "665855ebe244be90",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://ting.cool/",
+                "title": "共青春影院 - 2025永久发布页",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "共青春影院 - 2025永久发布页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,8 +260,9 @@
       "yolo:打开聊天": false
     }
   },
-  "active": "6684f82e8b9a6ef9",
+  "active": "665855ebe244be90",
   "lastOpenFiles": [
+    "网站资源/axutongxue.md",
     "机械工程/学习/工程图.md",
     "机械工程/学习/材料.md",
     "机械工程/计划/非标自动化学习计划.md",
@@ -269,7 +289,6 @@
     "剪辑/混剪",
     "剪辑/口播",
     "剪辑",
-    "网站资源/axutongxue.md",
     "Markdown学习/使用Markdown语法进行创作.md",
     "Markdown学习/标题语法.md",
     "Markdown学习/非标题语法.md",
