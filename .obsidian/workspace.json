@@ -262,8 +262,10 @@
       "yolo:打开聊天": false
     }
   },
-  "active": "e4afc4d8cc6f8fc0",
+  "active": "a6d4525492cc20e7",
   "lastOpenFiles": [
+    "其它/README.rst",
+    "其它",
     "毕业设计/系统功能模块设计方案.md",
     "毕业设计/系统功能.md",
     "毕业设计",
@@ -292,7 +294,6 @@
     "剪辑/未命名.md",
     "剪辑/信息流",
     "剪辑/混剪",
-    "剪辑/口播",
     "Markdown学习/使用Markdown语法进行创作.md",
     "Markdown学习/标题语法.md",
     "Markdown学习/非标题语法.md",
@@ -309,7 +310,6 @@
     "总结/大模型对话应用实现思路.md",
     "总结/implementation_ideas.md",
     "总结/大模型对话应用UI部分实现思路.md",
-    "YOLO/Exports/新对话 - 2026-05-20.md",
     "Excalidraw/未命名.canvas",
     "未命名.canvas"
   ]
