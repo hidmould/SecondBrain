@@ -158,8 +158,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "源代码管理"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -183,8 +183,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -219,8 +219,8 @@
             "state": {
               "type": "yolo-chat-view",
               "state": {},
-              "icon": "wand-sparkles",
-              "title": "新对话"
+              "icon": "lucide-ghost",
+              "title": "yolo-chat-view"
             }
           },
           {
@@ -229,8 +229,8 @@
             "state": {
               "type": "yolo-chat-view",
               "state": {},
-              "icon": "wand-sparkles",
-              "title": "新对话"
+              "icon": "lucide-ghost",
+              "title": "yolo-chat-view"
             }
           }
         ],
@@ -243,7 +243,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:打开Git源代码管理": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -252,18 +251,20 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
+      "zk-prefixer:创建时间戳笔记": true,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:打开Git源代码管理": false,
+      "i18n:common.i18n": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false,
-      "i18n:common.i18n": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
-      "zk-prefixer:创建时间戳笔记": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "yolo:打开聊天": false
     }
   },
   "active": "a6d4525492cc20e7",
   "lastOpenFiles": [
+    "YOLO",
     "其它/README.rst",
     "其它",
     "毕业设计/系统功能模块设计方案.md",
@@ -278,7 +279,6 @@
     "IT/Java/Redis.md",
     "IT/移动开发总结/大模型对话应用 - 数据库创建与初始化数据方案.md",
     "IT/需求文档/智能博客管理系统需求文档.md",
-    "YOLO",
     "机械工程/未命名.md",
     "机械工程/计划",
     "IT/移动开发总结",
