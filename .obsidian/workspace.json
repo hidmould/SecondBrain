@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f88bc9584197b6",
+        "id": "2b978227dc94ad9a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f80892111013c68",
+            "id": "122b1d1211dc336a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕业设计/系统功能模块设计方案.md",
+                "file": "file:D:/IT/env/数据/轴承缺陷数据集_YOLOv8整理版/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "系统功能模块设计方案"
-            }
-          },
-          {
-            "id": "e4afc4d8cc6f8fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕业设计/系统功能.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "系统功能"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,13 +247,14 @@
       "yolo:打开聊天": false
     }
   },
-  "active": "a6d4525492cc20e7",
+  "active": "122b1d1211dc336a",
   "lastOpenFiles": [
+    "file:D:/IT/env/数据/整理总览.md",
+    "毕业设计/系统功能.md",
+    "毕业设计/系统功能模块设计方案.md",
     "YOLO",
     "其它/README.rst",
     "其它",
-    "毕业设计/系统功能模块设计方案.md",
-    "毕业设计/系统功能.md",
     "毕业设计",
     "网站资源/axutongxue.md",
     "机械工程/学习/工程图.md",
@@ -293,7 +279,6 @@
     "机械工程/学习/_附件_/材料的特性.png",
     "剪辑/未命名.md",
     "剪辑/信息流",
-    "剪辑/混剪",
     "Markdown学习/使用Markdown语法进行创作.md",
     "Markdown学习/标题语法.md",
     "Markdown学习/非标题语法.md",
