@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 218.16668701171875
   },
   "right": {
     "id": "b77617e2168a69f9",
@@ -262,7 +262,7 @@
       "yolo:打开聊天": false
     }
   },
-  "active": "11991407782f90c8",
+  "active": "a6d4525492cc20e7",
   "lastOpenFiles": [
     "file:D:/IT/env/数据/整理总览.md",
     "毕业设计/系统功能.md",
